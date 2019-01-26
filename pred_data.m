@@ -1,19 +1,29 @@
+% collect data to a new time series structure
 
+OUT.T_Room_rel=house_data.explanatories.T_Room_rel.Data;
+OUT.T_Room_lag1_rel=house_data.explanatories.T_Room_lag1_rel.Data;
+OUT.T_Room_lag2_rel=house_data.explanatories.T_Room_lag2_rel.Data;
+OUT.T_Room_lag3_rel=house_data.explanatories.T_Room_lag3_rel.Data;
+OUT.T_Room_lag4_rel=house_data.explanatories.T_Room_lag4_rel.Data;
+OUT.T_Outdoor_rel=house_data.explanatories.T_Outdoor_rel.Data;
 
-T_Set=house_data.T_Set.Data;
-Thermostate_Switch=house_data.Thermostate_Switch.Data;
-T_Room=house_data.T_Room.Data;
+OUT.Humidity=house_data.explanatories.Humidity.Data;
 
+OUT.T_Set=house_data.T_Set.Data;
+OUT.Thermostate_Switch=house_data.Thermostate_Switch.Data;
+OUT.T_Room=house_data.T_Room.Data;
+
+struct2csv(OUT,'hh_collected_data.csv')
 % find times when thermostat was off
 
 
-is_dT_set=[0;T_Set(2:end)-T_Set(1:end-1)];
+is_dT_set=[0;OUT.T_Set(2:end)-OUT.T_Set(1:end-1)];
 locs_dT_set=find(is_dT_set~=0);
 
 % find next max indoor temperature
 
 
-[pks,locs] = findpeaks( T_Room );
+[pks,locs] = findpeaks( OUT.T_Room );
 
 is_Thermostate_Set_Period=zeros(length(is_dT_set),1);
 
@@ -55,22 +65,22 @@ end
 
 %%
 
-T_Room=T_Room(1:last_locs);
-T_Set=T_Set(1:last_locs);
-Thermostate_Switch=Thermostate_Switch(1:last_locs);
+T_Room=OUT.T_Room(1:last_locs);
+T_Set=OUT.T_Set(1:last_locs);
+Thermostate_Switch=OUT.Thermostate_Switch(1:last_locs);
 is_Thermostate_Set_Period=is_Thermostate_Set_Period(1:last_locs);
 T_nextMax=nextPeak;
 
-is_Thermostate_Switched_OFF=[Thermostate_Switch(2:end)-Thermostate_Switch(1:end-1);0]<0;
+is_Thermostate_Switched_OFF=[OUT.Thermostate_Switch(2:end)-OUT.Thermostate_Switch(1:end-1);0]<0;
 
-T_Room_rel=(house_data.explanatories.T_Room_rel.Data(1:last_locs));
-T_Room_lag1_rel=(house_data.explanatories.T_Room_lag1_rel.Data(1:last_locs));
-T_Room_lag2_rel=(house_data.explanatories.T_Room_lag2_rel.Data(1:last_locs));
-T_Room_lag3_rel=(house_data.explanatories.T_Room_lag3_rel.Data(1:last_locs));
-T_Room_lag4_rel=(house_data.explanatories.T_Room_lag4_rel.Data(1:last_locs));
-T_Outdoor_rel=house_data.explanatories.T_Outdoor_rel.Data(1:last_locs);
+T_Room_rel=(OUT.T_Room_rel.Data(1:last_locs));
+T_Room_lag1_rel=(OUT.T_Room_lag1_rel.Data(1:last_locs));
+T_Room_lag2_rel=(OUT.T_Room_lag2_rel.Data(1:last_locs));
+T_Room_lag3_rel=(OUT.T_Room_lag3_rel.Data(1:last_locs));
+T_Room_lag4_rel=(OUT.T_Room_lag4_rel.Data(1:last_locs));
+T_Outdoor_rel=OUT.T_Outdoor_rel.Data(1:last_locs);
 
-Humidity=house_data.explanatories.Humidity.Data(1:last_locs);
+Humidity=OUT.Humidity.Data(1:last_locs);
 
 %%
 figure('Name','Measured Data','NumberTitle','off');
