@@ -49,7 +49,7 @@ end
 last_locs=max(locs);
 
 nextPeak=zeros(last_locs,1);
-nextPeak(locs)=T_Room(locs);
+nextPeak(locs)=OUT.T_Room(locs);
 
 i=1;
 while sum(nextPeak==0)>0
@@ -72,15 +72,15 @@ is_Thermostate_Set_Period=is_Thermostate_Set_Period(1:last_locs);
 T_nextMax=nextPeak;
 
 is_Thermostate_Switched_OFF=[OUT.Thermostate_Switch(2:end)-OUT.Thermostate_Switch(1:end-1);0]<0;
+is_Thermostate_Switched_OFF=is_Thermostate_Switched_OFF(1:last_locs);
+T_Room_rel=(OUT.T_Room_rel(1:last_locs));
+T_Room_lag1_rel=(OUT.T_Room_lag1_rel(1:last_locs));
+T_Room_lag2_rel=(OUT.T_Room_lag2_rel(1:last_locs));
+T_Room_lag3_rel=(OUT.T_Room_lag3_rel(1:last_locs));
+T_Room_lag4_rel=(OUT.T_Room_lag4_rel(1:last_locs));
+T_Outdoor_rel=OUT.T_Outdoor_rel(1:last_locs);
 
-T_Room_rel=(OUT.T_Room_rel.Data(1:last_locs));
-T_Room_lag1_rel=(OUT.T_Room_lag1_rel.Data(1:last_locs));
-T_Room_lag2_rel=(OUT.T_Room_lag2_rel.Data(1:last_locs));
-T_Room_lag3_rel=(OUT.T_Room_lag3_rel.Data(1:last_locs));
-T_Room_lag4_rel=(OUT.T_Room_lag4_rel.Data(1:last_locs));
-T_Outdoor_rel=OUT.T_Outdoor_rel.Data(1:last_locs);
-
-Humidity=OUT.Humidity.Data(1:last_locs);
+Humidity=OUT.Humidity(1:last_locs);
 
 %%
 figure('Name','Measured Data','NumberTitle','off');
