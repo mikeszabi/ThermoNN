@@ -71,3 +71,10 @@ ind_switch_off=np.where(thermo_switch_off==1)
 
 plt.plot(ind_switch_on[0],T_room[ind_switch_on],'2',markersize=30,color='r')
 plt.plot(ind_switch_off[0],T_room[ind_switch_off],'1',markersize=30,color='b')
+
+# create dataframe
+dataset=pd.DataFrame({'T_ROOM':T_room,'ThermoState_Switch':ThermoState_Switch,'T_nextPeak_upper':T_nextPeak_upper})
+
+
+
+
