@@ -27,6 +27,9 @@ T_nextPeak_lower.fill(np.nan)
 
 
 ind_peak_upper, _ = find_peaks(T_room, height=0)
+
+mean_cycle_length=np.mean(ind_peak_upper[1:]-ind_peak_upper[:-1])/60 # in minutes
+
 #ind_peak_upper=argrelextrema(T_room, np.greater_equal, order=100)
 prev_ind=0
 for i,ind in enumerate(ind_peak_upper):
@@ -43,6 +46,9 @@ plt.plot(T_nextPeak_upper)
 
 
 ind_peak_lower, _ = find_peaks(100-T_room, height=0)
+
+mean_cycle_length=np.mean(ind_peak_lower[1:]-ind_peak_lower[:-1]) # in minutes
+
 #ind_peak_upper=argrelextrema(T_room, np.greater_equal, order=100)
 prev_ind=0
 for i,ind in enumerate(ind_peak_lower):

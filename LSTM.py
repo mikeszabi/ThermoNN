@@ -7,10 +7,8 @@ Created on Sat Jan 26 12:29:52 2019
 
 #https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/
 
-import numpy
+import numpy as np
 import matplotlib.pyplot as plt
-import pandas
-import math
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense
 from tensorflow.keras.layers import LSTM
