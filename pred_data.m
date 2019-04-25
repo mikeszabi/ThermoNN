@@ -13,7 +13,7 @@ OUT.T_Set=house_data.T_Set.Data;
 OUT.Thermostate_Switch=house_data.Thermostate_Switch.Data;
 OUT.T_Room=house_data.T_Room.Data;
 
-struct2csv(OUT,'.\data\hh_collected_data.csv')
+struct2csv(OUT,'.\data\hh_collected_data_smart_20190425.csv')
 % find times when thermostat was off
 
 
