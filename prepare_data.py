@@ -19,7 +19,7 @@ def ts_explanatories(df, n_in=1, col=['T_ROOM']):
 	n_vars = len(col)
 	cols, names = list(), list()
 	# input sequence (t-n, ... t-1)
-	for i in range(n_in, 0, -1):
+	for i in range(n_in-1, -1, -1):
 		cols.append(df.shift(i))
 		names += [('var%d(t-%d)' % (j+1, i)) for j in range(n_vars)]
 	# put it all together
@@ -104,25 +104,26 @@ ax[0].plot(ind_switch_on[0],T_room[ind_switch_on],'2',markersize=30,color='r')
 ax[0].plot(ind_switch_off[0],T_room[ind_switch_off],'1',markersize=30,color='b')
 
 # new dataset
-dataset=pd.DataFrame({'T_ROOM':T_room,'T_Set':ThermoState_Switch,'ThermoState_Switch':ThermoState_Switch,'Thermo_Switch_On':thermo_switch_on,'Thermo_Switch_Off':thermo_switch_off,'T_nextPeak_upper':T_nextPeak_upper})
+dataset=pd.DataFrame({'T_ROOM':T_room,'T_Set':T_set,'ThermoState_Switch':ThermoState_Switch,'Thermo_Switch_On':thermo_switch_on,'Thermo_Switch_Off':thermo_switch_off,'T_nextPeak_upper':T_nextPeak_upper})
 
 
 # create processed dataframe for prediction
-configs = json.load(open('config.json', 'r'))
+configs = json.load(open('config_2.json', 'r'))
 
-
+#
 cols=configs['data']['columns']
 seq_len=configs['data']['sequence_length']
 
 df_ts=ts_explanatories(dataset['T_ROOM'], n_in=seq_len, col=['T_ROOM'])
 # set predicted
-df_ts.rename(columns={'var1(t)':'y'})
+#df_ts.rename(columns={'var1(t)':'y'})
 df_ts['y']=dataset['T_nextPeak_upper']
 
+df_ts_norm=df_ts.subtract(df_ts['var1(t-0)'],axis=0)
+
+
 # select
-df_ts_sel=df_ts[dataset['Thermo_Switch_Off']]
-# normalize with y
-df_ts_sel_norm=df_ts_sel.subtract(df_ts_sel['var1(t-1)'],axis=0)
+df_ts_sel_norm=df_ts_norm[dataset['Thermo_Switch_Off']]
 
 
 df_ts_sel_norm.to_csv(r'./data/hh_processed_data.csv',float_format='%.3f')

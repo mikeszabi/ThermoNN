@@ -11,8 +11,8 @@
 		"normalise": true
 	},
 	"training": {
-		"epochs": 100,
-		"batch_size": 32
+		"epochs": 200,
+		"batch_size": 128
 	},
 	"model": {
 		"loss": "mse",
@@ -21,23 +21,18 @@
 		"layers": [
 			{
 				"type": "lstm",
-				"neurons": 10,
+				"neurons": 50,
 				"input_timesteps": 10,
-				"input_dim": 1,
-				"return_seq": true
+				"return_seq": true,
+				"input_dim": 1
 			},
-			{
+			{			
 				"type": "dropout",
 				"rate": 0.2
 			},
 			{
 				"type": "lstm",
-				"neurons": 10,
-				"return_seq": true
-			},
-			{
-				"type": "lstm",
-				"neurons": 10,
+				"neurons": 50,
 				"return_seq": false
 			},
 			{
