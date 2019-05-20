@@ -7,7 +7,10 @@ Created on Mon Jan 21 21:57:10 2019
 
 #https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/
 
+#import sys
+#sys.path.append(r'./meter/python/sami')
 import os
+#os.chdir(r'./prediction')
 import json
 import pandas as pd
 import numpy as np
@@ -108,7 +111,7 @@ dataset=pd.DataFrame({'T_ROOM':T_room,'T_Set':T_set,'ThermoState_Switch':ThermoS
 
 
 # create processed dataframe for prediction
-configs = json.load(open('config_2.json', 'r'))
+configs = json.load(open('config.json', 'r'))
 
 #
 cols=configs['data']['columns']

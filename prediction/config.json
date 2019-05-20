@@ -6,12 +6,12 @@
 			"T_nextPeak_upper"
 		],
 		"condition":  ["Thermo_Switch_On"],
-		"sequence_length": 10,
+		"sequence_length": 25,
 		"train_test_split": 0.85,
 		"normalise": true
 	},
 	"training": {
-		"epochs": 200,
+		"epochs": 100,
 		"batch_size": 128
 	},
 	"model": {
@@ -22,7 +22,7 @@
 			{
 				"type": "lstm",
 				"neurons": 50,
-				"input_timesteps": 10,
+				"input_timesteps": 25,
 				"return_seq": true,
 				"input_dim": 1
 			},

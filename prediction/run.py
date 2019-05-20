@@ -39,7 +39,7 @@ def plot_results_multiple(predicted_data, true_data, prediction_len):
 
 
 def main():
-    configs = json.load(open('config_2.json', 'r'))
+    configs = json.load(open('config.json', 'r'))
     if not os.path.exists(configs['model']['save_dir']): os.makedirs(configs['model']['save_dir'])
 
     data = DataLoader(
@@ -54,7 +54,7 @@ def main():
     x, y = data.get_train_data()
 
 
-    x=x.squeeze()
+    #x=x.squeeze()
     # in-memory training
     model.train(
             x,
@@ -77,7 +77,7 @@ def main():
 
     # testing model
     x_test, y_test = data.get_test_data()
-    x_test=x_test.squeeze()
+    #x_test=x_test.squeeze()
 
 
     predictions = model.predict_point_by_point(x_test)

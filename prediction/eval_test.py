@@ -12,7 +12,7 @@ Created on Mon Apr 29 11:39:49 2019
 x=df_ts_norm.values[:,:-1]
 x=x.reshape((x.shape[0], x.shape[1],1))
 
-x=x.squeeze()
+#x=x.squeeze()
 y=df_ts_norm.values[:,-1]
 
 
@@ -31,8 +31,11 @@ plt.plot(predictions, label='Prediction')
 plt.legend()
 plt.show()
 
-ax.plot(ind_switch_on[0],T_room[ind_switch_on],'2',markersize=30,color='r')
-ax.plot(ind_switch_off[0],T_room[ind_switch_off],'1',markersize=30,color='b')
+ax.plot(ind_switch_on[0],T_set[ind_switch_on],'2',markersize=30,color='r')
+ax.plot(ind_switch_off[0],T_set[ind_switch_off],'1',markersize=30,color='b')
 ax.plot(T_set,color='g')
+ax.plot(df_hh['T_Set']+0.5,color='g')
+ax.plot(df_hh['T_Set']-0.5,color='g')
+ax.plot(T_room,color='k')
 
 
