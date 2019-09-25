@@ -111,7 +111,7 @@ dataset=pd.DataFrame({'T_ROOM':T_room,'T_Set':T_set,'ThermoState_Switch':ThermoS
 
 
 # create processed dataframe for prediction
-configs = json.load(open('config.json', 'r'))
+configs = json.load(open(os.path.join(os.curdir,'prediction','config_2.json'), 'r'))
 
 #
 cols=configs['data']['columns']
