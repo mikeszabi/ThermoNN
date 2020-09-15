@@ -129,7 +129,7 @@ df_ts_norm=df_ts.subtract(df_ts['var1(t-0)'],axis=0)
 df_ts_sel_norm=df_ts_norm[dataset['Thermo_Switch_Off']]
 
 
-df_ts_sel_norm.to_csv(r'../data/hh_processed_data.csv',float_format='%.3f')
+df_ts_sel_norm.to_csv(r'./data/hh_processed_data.csv',float_format='%.3f')
 
 
 
