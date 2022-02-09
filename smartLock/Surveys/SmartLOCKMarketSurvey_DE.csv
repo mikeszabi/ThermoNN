@@ -1,0 +1,1001 @@
+Gender,Age,Area,Income,Feature,Brand,NumberOfDevices,Preference,Heard,ShoppingOnline,Unlock
+Male,37,suburban,$50.000 to $75.000,Quality,None of these,,Price,No,68,Biometrics - fingerprint
+Male,41,rural,$25.000 to $50.000,Quality,Fibaro,5-10,Smart Features,Yes,45,Biometrics - fingerprint
+Female,40,rural,$50.000 to $75.000,Quality,Amazon Alexa,10-15,Remote Access,No,66,Remote unlock by application
+Male,31,suburban,$50.000 to $75.000,Friend’s recommendation,iNels,1-5,Smart Features,No,80,Bluetooth
+Male,49,rural,$150.000 or More,Price,Amazon Alexa,1-5,Remote Access,No,47,Remote unlock by application
+Female,39,suburban,$100.000 to $150.000,Friend’s recommendation,Loxone,5-10,Smart Features,Yes,55,Biometrics - fingerprint
+Female,34,urban,$25.000 to $50.000,Price,Apple Home Kit,1-5,Safety,Yes,66,Remote unlock by application
+Male,49,rural,$75.000 to $100.000,Friend’s recommendation,Apple Home Kit,10-15,Brand,No,42,Biometrics - eyescan
+Male,34,rural,$75.000 to $100.000,Safety,None of these,,Smart Features,No,82,Biometrics - fingerprint
+Male,36,urban,$50.000 to $75.000,Brand,Google Home,10-15,Brand,Yes,61,Biometrics - fingerprint
+Male,42,suburban,Less than $25.000,Price,Fibaro,5-10,Remote Access,Yes,46,Biometrics - photo
+Male,36,rural,$25.000 to $50.000,Safety,None of these,,Safety,No,62,Biometrics - eyescan
+Male,38,urban,$50.000 to $75.000,Brand,Amazon Alexa,5-10,Safety,Yes,41,Conventional key
+Male,43,suburban,$75.000 to $100.000,Friend’s recommendation,Fibaro,1-5,Safety,No,47,Biometrics - eyescan
+Female,41,suburban,Less than $25.000,Durability,None of these,,Smart Features,Yes,39,NFC
+Female,44,suburban,$150.000 or More,Quality,Fibaro,>15,Safety,Yes,62,Biometrics - photo
+Female,35,rural,Less than $25.000,Friend’s recommendation,None of these,,Price,Yes,,Bluetooth
+Female,45,suburban,$25.000 to $50.000,Convenience,None of these,,Price,Yes,60,Remote unlock by application
+Female,39,suburban,Less than $25.000,Price,Apple Home Kit,>15,Safety,Yes,56,Remote unlock by application
+Female,48,urban,$150.000 or More,Brand,Apple Home Kit,>15,Smart Features,Yes,59,NFC
+Female,38,suburban,Less than $25.000,Packaging,Google Home,10-15,Safety,Yes,55,NFC
+Male,46,rural,$150.000 or More,Packaging,Fibaro,>15,Brand,Yes,51,NFC
+Female,39,suburban,$25.000 to $50.000,Friend’s recommendation,Fibaro,5-10,Price,No,41,NFC
+Male,37,urban,$100.000 to $150.000,Brand,Fibaro,,Brand,Yes,,Biometrics - fingerprint
+Male,38,urban,$100.000 to $150.000,Quality,Fibaro,>15,Brand,Yes,58,Biometrics - eyescan
+Male,43,rural,$75.000 to $100.000,Brand,Loxone,5-10,Safety,Yes,39,Remote unlock by application
+Female,46,suburban,$100.000 to $150.000,Price,Apple Home Kit,,Price,No,,Remote unlock by application
+Female,43,urban,$100.000 to $150.000,Brand,Amazon Alexa,5-10,Safety,Yes,59,Biometrics - eyescan
+Male,49,urban,$75.000 to $100.000,Brand,Apple Home Kit,10-15,Safety,Yes,45,NFC
+Female,42,rural,$100.000 to $150.000,Quality,Apple Home Kit,>15,Price,Yes,50,Biometrics - fingerprint
+Male,37,suburban,$100.000 to $150.000,Quality,None of these,,Safety,Yes,60,NFC
+Male,39,suburban,$150.000 or More,Quality,iNels,1-5,Brand,Yes,52,Biometrics - eyescan
+Male,42,urban,$50.000 to $75.000,Packaging,None of these,,Safety,No,45,Remote unlock by application
+Male,37,urban,$50.000 to $75.000,Friend’s recommendation,Nest,,Smart Features,No,,Biometrics - fingerprint
+Male,31,rural,$100.000 to $150.000,Friend’s recommendation,None of these,,Smart Features,No,72,NFC
+Female,49,urban,$25.000 to $50.000,Price,None of these,,Safety,Yes,46,Remote unlock by application
+Female,50,rural,$25.000 to $50.000,Brand,Loxone,10-15,Price,Yes,48,Conventional key
+Male,32,suburban,$100.000 to $150.000,Quality,None of these,,Smart Features,Yes,62,Bluetooth
+Female,32,rural,Less than $25.000,Packaging,None of these,,Price,Yes,63,NFC
+Male,44,urban,$75.000 to $100.000,Brand,Loxone,>15,Price,No,51,Conventional key
+Male,43,urban,$50.000 to $75.000,Durability,None of these,,Price,Yes,70,Remote unlock by application
+Female,41,rural,$150.000 or More,Brand,iNels,1-5,Brand,Yes,52,Conventional key
+Male,33,suburban,$75.000 to $100.000,Brand,Amazon Alexa,1-5,Price,No,71,Bluetooth
+Female,41,rural,$25.000 to $50.000,Durability,Amazon Alexa,10-15,Safety,Yes,51,Biometrics - photo
+Female,36,urban,$25.000 to $50.000,Quality,None of these,,Brand,Yes,74,Biometrics - eyescan
+Male,29,suburban,$150.000 or More,Friend’s recommendation,Fibaro,1-5,Brand,Yes,80,Biometrics - eyescan
+Male,39,rural,$75.000 to $100.000,Brand,iNels,1-5,Smart Features,No,61,Bluetooth
+Male,39,rural,$150.000 or More,Brand,Amazon Alexa,5-10,Brand,No,41,Biometrics - eyescan
+Female,44,rural,Less than $25.000,Safety,None of these,,Safety,Yes,48,Biometrics - photo
+Female,45,rural,$150.000 or More,Quality,Amazon Alexa,>15,Remote Access,Yes,45,Bluetooth
+Male,37,rural,$50.000 to $75.000,Quality,Amazon Alexa,5-10,Safety,Yes,59,NFC
+Female,46,urban,$150.000 or More,Friend’s recommendation,None of these,,Safety,No,66,Biometrics - fingerprint
+Male,45,suburban,$25.000 to $50.000,Brand,Loxone,5-10,Price,Yes,52,Remote unlock by application
+Female,38,urban,$25.000 to $50.000,Brand,None of these,,Safety,No,63,Biometrics - eyescan
+Male,39,urban,Less than $25.000,Durability,None of these,,Safety,No,75,Conventional key
+Female,50,rural,Less than $25.000,Quality,Fibaro,5-10,Price,No,40,Bluetooth
+Male,49,rural,$25.000 to $50.000,Convenience,Fibaro,>15,Price,Yes,49,Remote unlock by application
+Female,40,suburban,$150.000 or More,Friend’s recommendation,None of these,,Brand,No,54,Conventional key
+Male,41,urban,$25.000 to $50.000,Convenience,Fibaro,5-10,Smart Features,Yes,51,Biometrics - fingerprint
+Male,30,suburban,$25.000 to $50.000,Price,Nest,5-10,Brand,Yes,74,Conventional key
+Female,32,urban,$50.000 to $75.000,Quality,None of these,,Safety,Yes,67,Conventional key
+Male,31,urban,$150.000 or More,Friend’s recommendation,Apple Home Kit,>15,Safety,Yes,68,Conventional key
+Female,44,suburban,Less than $25.000,Safety,None of these,,Smart Features,Yes,48,NFC
+Male,50,suburban,$50.000 to $75.000,Durability,Google Home,10-15,Brand,Yes,44,Biometrics - fingerprint
+Female,42,urban,$75.000 to $100.000,Quality,Google Home,5-10,Brand,Yes,58,NFC
+Male,48,rural,$75.000 to $100.000,Friend’s recommendation,Amazon Alexa,5-10,Safety,Yes,39,Biometrics - photo
+Male,39,suburban,$150.000 or More,Brand,Loxone,1-5,Remote Access,No,59,Remote unlock by application
+Female,43,urban,$25.000 to $50.000,Safety,Apple Home Kit,>15,Smart Features,Yes,54,Biometrics - fingerprint
+Male,38,suburban,$100.000 to $150.000,Convenience,Google Home,5-10,Safety,Yes,57,NFC
+Female,30,suburban,$150.000 or More,Brand,Amazon Alexa,,Safety,No,,Biometrics - fingerprint
+Female,27,rural,$25.000 to $50.000,Brand,Google Home,10-15,Price,Yes,89,Biometrics - photo
+Female,45,urban,$25.000 to $50.000,Durability,None of these,,Price,No,50,Remote unlock by application
+Male,48,suburban,$50.000 to $75.000,Convenience,None of these,,Safety,No,52,Biometrics - photo
+Male,41,suburban,$150.000 or More,Quality,None of these,,Brand,Yes,48,Remote unlock by application
+Male,36,rural,Less than $25.000,Safety,None of these,,Price,No,63,Conventional key
+Male,33,rural,$50.000 to $75.000,Convenience,None of these,,Brand,No,,Biometrics - eyescan
+Female,40,rural,$150.000 or More,Brand,Loxone,10-15,Smart Features,Yes,63,Biometrics - fingerprint
+Female,42,suburban,$150.000 or More,Durability,None of these,,Smart Features,No,,Biometrics - eyescan
+Male,39,rural,$25.000 to $50.000,Durability,None of these,,Brand,No,60,Biometrics - fingerprint
+Female,39,urban,Less than $25.000,Price,None of these,,Smart Features,No,50,NFC
+Female,43,rural,$25.000 to $50.000,Price,Google Home,,Safety,Yes,,Conventional key
+Female,42,suburban,Less than $25.000,Price,iNels,1-5,Safety,Yes,41,Biometrics - photo
+Male,32,rural,$25.000 to $50.000,Packaging,None of these,,Remote Access,Yes,67,Remote unlock by application
+Female,31,urban,$25.000 to $50.000,Friend’s recommendation,Google Home,1-5,Price,No,66,Remote unlock by application
+Female,41,urban,$100.000 to $150.000,Convenience,Loxone,5-10,Smart Features,Yes,62,Biometrics - eyescan
+Male,40,urban,$75.000 to $100.000,Safety,Amazon Alexa,>15,Safety,Yes,57,Biometrics - fingerprint
+Male,43,rural,Less than $25.000,Friend’s recommendation,Apple Home Kit,>15,Safety,Yes,43,Conventional key
+Male,38,urban,$75.000 to $100.000,Durability,Amazon Alexa,5-10,Price,Yes,65,Biometrics - fingerprint
+Male,45,urban,$50.000 to $75.000,Durability,Google Home,10-15,Safety,Yes,49,NFC
+Female,43,suburban,$75.000 to $100.000,Price,Google Home,10-15,Safety,Yes,59,Biometrics - eyescan
+Female,39,rural,Less than $25.000,Price,Nest,1-5,Price,No,49,Remote unlock by application
+Male,32,suburban,$100.000 to $150.000,Price,None of these,,Smart Features,Yes,59,NFC
+Male,43,urban,$50.000 to $75.000,Convenience,None of these,,Brand,No,55,Biometrics - fingerprint
+Male,36,urban,Less than $25.000,Safety,None of these,,Remote Access,Yes,,Remote unlock by application
+Female,28,rural,$100.000 to $150.000,Safety,Amazon Alexa,1-5,Remote Access,No,78,Biometrics - eyescan
+Male,34,suburban,$150.000 or More,Quality,Loxone,1-5,Remote Access,No,70,Remote unlock by application
+Male,61,rural,$150.000 or More,Friend’s recommendation,Loxone,>15,Brand,Yes,41,Remote unlock by application
+Female,39,urban,$25.000 to $50.000,Friend’s recommendation,Fibaro,1-5,Safety,No,53,Biometrics - eyescan
+Male,49,rural,Less than $25.000,Quality,Loxone,>15,Safety,Yes,40,Biometrics - photo
+Female,35,urban,$100.000 to $150.000,Convenience,Amazon Alexa,10-15,Brand,Yes,47,Biometrics - eyescan
+Female,37,rural,$75.000 to $100.000,Quality,Google Home,1-5,Brand,No,62,Biometrics - eyescan
+Female,29,urban,$75.000 to $100.000,Safety,Google Home,5-10,Safety,Yes,65,NFC
+Female,55,suburban,Less than $25.000,Price,Google Home,10-15,Price,Yes,49,Conventional key
+Female,45,rural,$25.000 to $50.000,Quality,iNels,1-5,Remote Access,No,57,Biometrics - fingerprint
+Female,39,urban,$100.000 to $150.000,Friend’s recommendation,Apple Home Kit,>15,Safety,Yes,45,Biometrics - photo
+Female,40,suburban,$50.000 to $75.000,Convenience,iNels,1-5,Safety,Yes,51,Biometrics - eyescan
+Male,33,suburban,$50.000 to $75.000,Friend’s recommendation,Amazon Alexa,5-10,Brand,No,72,Biometrics - fingerprint
+Male,35,suburban,$25.000 to $50.000,Price,None of these,,Smart Features,Yes,88,NFC
+Female,35,rural,$100.000 to $150.000,Brand,None of these,,Smart Features,No,75,Biometrics - fingerprint
+Male,58,rural,Less than $25.000,Price,Fibaro,1-5,Safety,No,33,Biometrics - eyescan
+Female,42,urban,Less than $25.000,Price,Google Home,10-15,Smart Features,Yes,74,NFC
+Female,42,suburban,Less than $25.000,Brand,Google Home,>15,Remote Access,Yes,40,Biometrics - eyescan
+Male,36,suburban,$100.000 to $150.000,Brand,Apple Home Kit,10-15,Price,No,54,Biometrics - photo
+Male,44,rural,$100.000 to $150.000,Convenience,Fibaro,5-10,Brand,Yes,55,Conventional key
+Female,34,rural,$150.000 or More,Quality,Loxone,,Smart Features,Yes,,NFC
+Female,48,urban,$75.000 to $100.000,Quality,None of these,,Smart Features,Yes,43,Bluetooth
+Male,36,urban,$75.000 to $100.000,Packaging,Apple Home Kit,5-10,Price,Yes,59,Remote unlock by application
+Female,44,rural,Less than $25.000,Quality,iNels,1-5,Smart Features,No,61,Biometrics - eyescan
+Male,34,suburban,Less than $25.000,Durability,Nest,,Safety,Yes,,Biometrics - eyescan
+Female,34,suburban,$50.000 to $75.000,Brand,None of these,,Price,Yes,59,Biometrics - fingerprint
+Female,33,suburban,$50.000 to $75.000,Friend’s recommendation,None of these,,Safety,No,64,Remote unlock by application
+Male,30,rural,$75.000 to $100.000,Safety,None of these,,Safety,Yes,72,Biometrics - fingerprint
+Male,39,rural,Less than $25.000,Durability,Fibaro,>15,Price,Yes,64,Remote unlock by application
+Male,51,suburban,$100.000 to $150.000,Quality,None of these,,Safety,No,35,Conventional key
+Male,33,suburban,$75.000 to $100.000,Safety,iNels,1-5,Safety,Yes,67,NFC
+Male,45,urban,$75.000 to $100.000,Brand,Amazon Alexa,10-15,Safety,Yes,50,Remote unlock by application
+Female,30,suburban,$75.000 to $100.000,Safety,Apple Home Kit,10-15,Smart Features,Yes,77,Remote unlock by application
+Male,42,suburban,$25.000 to $50.000,Safety,iNels,,Price,Yes,,Remote unlock by application
+Male,44,urban,$50.000 to $75.000,Friend’s recommendation,Loxone,1-5,Safety,No,51,Biometrics - photo
+Female,37,suburban,$25.000 to $50.000,Friend’s recommendation,Fibaro,5-10,Price,Yes,52,Remote unlock by application
+Male,40,suburban,$150.000 or More,Brand,None of these,,Remote Access,No,55,Biometrics - photo
+Male,41,rural,$50.000 to $75.000,Durability,None of these,,Smart Features,No,62,Biometrics - fingerprint
+Male,42,urban,$150.000 or More,Brand,Loxone,1-5,Brand,Yes,49,Biometrics - fingerprint
+Female,40,suburban,$100.000 to $150.000,Price,Apple Home Kit,10-15,Safety,Yes,52,Biometrics - eyescan
+Female,41,suburban,$100.000 to $150.000,Price,Apple Home Kit,10-15,Smart Features,Yes,53,Biometrics - fingerprint
+Female,38,suburban,$150.000 or More,Friend’s recommendation,iNels,1-5,Remote Access,No,51,Remote unlock by application
+Female,35,urban,$75.000 to $100.000,Brand,Apple Home Kit,5-10,Price,Yes,76,NFC
+Male,39,urban,Less than $25.000,Price,Fibaro,>15,Price,Yes,36,Biometrics - eyescan
+Female,36,rural,Less than $25.000,Quality,None of these,,Price,Yes,52,Bluetooth
+Male,40,urban,$100.000 to $150.000,Price,Loxone,1-5,Smart Features,Yes,70,NFC
+Male,29,suburban,$75.000 to $100.000,Friend’s recommendation,Nest,1-5,Brand,No,78,Conventional key
+Female,51,urban,$75.000 to $100.000,Friend’s recommendation,None of these,,Price,Yes,28,Biometrics - fingerprint
+Female,46,suburban,$150.000 or More,Brand,None of these,,Safety,Yes,46,NFC
+Female,33,suburban,Less than $25.000,Brand,None of these,,Safety,No,62,Biometrics - fingerprint
+Male,36,rural,$75.000 to $100.000,Safety,Loxone,1-5,Safety,Yes,56,NFC
+Male,36,urban,Less than $25.000,Quality,None of these,,Price,Yes,67,NFC
+Female,38,suburban,$150.000 or More,Brand,None of these,,Brand,No,69,Biometrics - fingerprint
+Female,35,suburban,$150.000 or More,Quality,Loxone,5-10,Smart Features,Yes,58,Biometrics - eyescan
+Female,38,suburban,$75.000 to $100.000,Price,None of these,,Safety,Yes,,Biometrics - eyescan
+Male,40,suburban,$50.000 to $75.000,Quality,Amazon Alexa,10-15,Price,Yes,65,Biometrics - photo
+Female,52,suburban,Less than $25.000,Brand,Nest,1-5,Safety,Yes,50,Biometrics - fingerprint
+Female,46,suburban,$25.000 to $50.000,Durability,None of these,,Safety,No,52,NFC
+Female,37,rural,$25.000 to $50.000,Price,None of these,,Safety,No,74,NFC
+Female,29,urban,$25.000 to $50.000,Price,Fibaro,1-5,Safety,Yes,68,Remote unlock by application
+Male,45,rural,$100.000 to $150.000,Quality,None of these,,Remote Access,Yes,41,Remote unlock by application
+Male,42,urban,$150.000 or More,Quality,iNels,1-5,Safety,No,43,NFC
+Male,43,rural,Less than $25.000,Durability,iNels,,Safety,Yes,,Remote unlock by application
+Male,45,suburban,Less than $25.000,Brand,iNels,1-5,Safety,No,44,Remote unlock by application
+Female,52,rural,$150.000 or More,Friend’s recommendation,Loxone,5-10,Safety,Yes,43,NFC
+Female,40,urban,$100.000 to $150.000,Durability,Loxone,1-5,Safety,Yes,84,Biometrics - fingerprint
+Female,47,urban,$150.000 or More,Brand,Fibaro,5-10,Smart Features,Yes,38,NFC
+Female,42,rural,$50.000 to $75.000,Convenience,Fibaro,5-10,Safety,Yes,70,NFC
+Female,33,urban,$25.000 to $50.000,Convenience,Loxone,10-15,Safety,Yes,78,Biometrics - eyescan
+Female,28,urban,$150.000 or More,Friend’s recommendation,Loxone,1-5,Remote Access,No,92,Biometrics - photo
+Female,63,suburban,$150.000 or More,Brand,Amazon Alexa,1-5,Brand,No,29,Bluetooth
+Male,34,rural,$50.000 to $75.000,Durability,None of these,,Remote Access,No,63,Biometrics - fingerprint
+Male,34,rural,$75.000 to $100.000,Quality,Nest,1-5,Safety,No,89,Biometrics - eyescan
+Female,35,urban,$100.000 to $150.000,Friend’s recommendation,Loxone,1-5,Brand,No,69,Biometrics - photo
+Male,37,urban,$75.000 to $100.000,Price,Loxone,5-10,Safety,Yes,53,Biometrics - photo
+Female,39,suburban,Less than $25.000,Quality,None of these,,Remote Access,Yes,55,Bluetooth
+Male,35,suburban,$150.000 or More,Quality,Nest,1-5,Safety,Yes,61,NFC
+Male,35,urban,$50.000 to $75.000,Price,Google Home,10-15,Safety,Yes,65,Biometrics - photo
+Female,38,urban,Less than $25.000,Durability,None of these,,Price,Yes,59,Remote unlock by application
+Female,48,rural,$100.000 to $150.000,Friend’s recommendation,Google Home,10-15,Safety,Yes,32,Conventional key
+Female,46,urban,Less than $25.000,Safety,None of these,,Remote Access,Yes,57,Bluetooth
+Female,53,urban,Less than $25.000,Durability,None of these,,Price,No,40,Remote unlock by application
+Male,32,urban,$150.000 or More,Brand,Fibaro,5-10,Safety,No,61,Biometrics - photo
+Female,43,rural,$75.000 to $100.000,Safety,Amazon Alexa,5-10,Safety,Yes,51,Conventional key
+Female,51,urban,Less than $25.000,Safety,None of these,,Safety,Yes,39,Biometrics - photo
+Male,40,rural,Less than $25.000,Durability,None of these,,Price,No,58,Biometrics - fingerprint
+Male,45,suburban,Less than $25.000,Safety,Google Home,>15,Safety,Yes,52,Biometrics - eyescan
+Female,37,rural,$50.000 to $75.000,Brand,None of these,,Safety,No,60,Conventional key
+Male,39,rural,$25.000 to $50.000,Brand,Nest,10-15,Safety,Yes,52,NFC
+Female,33,suburban,$150.000 or More,Brand,Amazon Alexa,>15,Brand,Yes,51,Biometrics - photo
+Male,42,suburban,Less than $25.000,Durability,Fibaro,1-5,Brand,Yes,62,Conventional key
+Female,43,urban,$150.000 or More,Friend’s recommendation,Amazon Alexa,10-15,Safety,Yes,61,Biometrics - eyescan
+Female,39,urban,Less than $25.000,Brand,None of these,,Price,No,62,Bluetooth
+Male,47,suburban,$75.000 to $100.000,Quality,Fibaro,1-5,Safety,No,43,Conventional key
+Male,41,rural,$150.000 or More,Friend’s recommendation,Amazon Alexa,>15,Safety,Yes,58,NFC
+Male,30,suburban,$100.000 to $150.000,Brand,Google Home,1-5,Remote Access,Yes,86,Biometrics - eyescan
+Male,45,suburban,Less than $25.000,Price,Nest,10-15,Smart Features,Yes,41,NFC
+Male,42,urban,$75.000 to $100.000,Safety,None of these,,Safety,No,53,Biometrics - photo
+Male,33,suburban,$150.000 or More,Brand,None of these,,Smart Features,Yes,72,Conventional key
+Female,43,urban,$75.000 to $100.000,Safety,Apple Home Kit,,Remote Access,Yes,,Remote unlock by application
+Female,32,suburban,$50.000 to $75.000,Quality,Amazon Alexa,5-10,Smart Features,Yes,41,NFC
+Female,40,urban,$50.000 to $75.000,Friend’s recommendation,Google Home,5-10,Safety,No,57,Biometrics - fingerprint
+Female,35,rural,$50.000 to $75.000,Durability,Amazon Alexa,5-10,Price,Yes,62,Biometrics - fingerprint
+Male,40,urban,$75.000 to $100.000,Price,Google Home,10-15,Price,Yes,58,Biometrics - eyescan
+Male,46,rural,$150.000 or More,Quality,Amazon Alexa,10-15,Smart Features,No,42,Biometrics - fingerprint
+Male,44,urban,$25.000 to $50.000,Friend’s recommendation,Loxone,,Price,Yes,,Remote unlock by application
+Male,38,urban,$150.000 or More,Packaging,Loxone,1-5,Brand,Yes,67,Conventional key
+Female,32,rural,$75.000 to $100.000,Friend’s recommendation,None of these,,Price,Yes,55,Biometrics - fingerprint
+Male,42,suburban,$75.000 to $100.000,Brand,Fibaro,1-5,Smart Features,Yes,48,Biometrics - eyescan
+Male,42,suburban,$25.000 to $50.000,Convenience,None of these,,Remote Access,No,46,Bluetooth
+Male,33,suburban,$150.000 or More,Friend’s recommendation,None of these,,Brand,No,,Biometrics - photo
+Female,42,urban,$75.000 to $100.000,Quality,None of these,,Safety,No,57,Remote unlock by application
+Female,38,urban,$100.000 to $150.000,Convenience,None of these,,Safety,No,55,Biometrics - fingerprint
+Male,36,suburban,Less than $25.000,Quality,Fibaro,1-5,Smart Features,No,58,Biometrics - fingerprint
+Female,36,rural,$150.000 or More,Convenience,Loxone,,Remote Access,Yes,,Biometrics - photo
+Male,38,urban,$150.000 or More,Friend’s recommendation,Apple Home Kit,5-10,Brand,No,48,NFC
+Female,40,urban,$25.000 to $50.000,Friend’s recommendation,None of these,,Price,Yes,58,Remote unlock by application
+Male,36,urban,$100.000 to $150.000,Friend’s recommendation,None of these,,Price,No,48,NFC
+Male,26,urban,$25.000 to $50.000,Safety,Google Home,1-5,Safety,No,57,Biometrics - fingerprint
+Male,37,suburban,$50.000 to $75.000,Quality,None of these,,Price,No,74,Biometrics - photo
+Male,44,rural,$75.000 to $100.000,Friend’s recommendation,None of these,,Smart Features,No,44,NFC
+Male,53,suburban,$75.000 to $100.000,Friend’s recommendation,Apple Home Kit,>15,Brand,Yes,41,Biometrics - eyescan
+Female,33,suburban,$100.000 to $150.000,Friend’s recommendation,Apple Home Kit,1-5,Safety,No,82,Remote unlock by application
+Male,44,rural,$25.000 to $50.000,Quality,None of these,,Price,No,,Remote unlock by application
+Male,30,urban,$25.000 to $50.000,Friend’s recommendation,Google Home,1-5,Remote Access,No,77,Remote unlock by application
+Female,44,suburban,Less than $25.000,Quality,Nest,,Safety,No,,NFC
+Male,38,rural,$25.000 to $50.000,Price,None of these,,Price,No,,Biometrics - photo
+Female,45,suburban,$25.000 to $50.000,Convenience,iNels,1-5,Safety,Yes,58,Biometrics - photo
+Female,32,urban,$100.000 to $150.000,Quality,Apple Home Kit,5-10,Smart Features,Yes,83,Biometrics - eyescan
+Female,40,urban,$75.000 to $100.000,Price,Amazon Alexa,5-10,Safety,Yes,49,Biometrics - eyescan
+Female,44,urban,Less than $25.000,Friend’s recommendation,None of these,,Remote Access,No,56,Remote unlock by application
+Male,42,rural,$25.000 to $50.000,Convenience,None of these,,Safety,No,39,Biometrics - eyescan
+Male,34,rural,$150.000 or More,Brand,None of these,,Safety,No,67,Biometrics - photo
+Female,29,suburban,$100.000 to $150.000,Friend’s recommendation,Loxone,>15,Brand,Yes,79,Conventional key
+Female,34,urban,$50.000 to $75.000,Quality,None of these,,Price,No,,Biometrics - photo
+Female,46,rural,$50.000 to $75.000,Brand,Google Home,1-5,Safety,No,47,Biometrics - eyescan
+Female,28,urban,$25.000 to $50.000,Price,None of these,,Safety,Yes,91,Conventional key
+Male,33,rural,$75.000 to $100.000,Packaging,Fibaro,1-5,Safety,No,78,Biometrics - fingerprint
+Female,37,urban,$100.000 to $150.000,Safety,None of these,,Safety,No,73,Biometrics - fingerprint
+Male,35,suburban,$150.000 or More,Safety,None of these,,Safety,Yes,74,Biometrics - fingerprint
+Male,40,suburban,$50.000 to $75.000,Packaging,Google Home,1-5,Safety,Yes,65,Conventional key
+Male,44,urban,$150.000 or More,Friend’s recommendation,Loxone,,Remote Access,No,,Biometrics - fingerprint
+Female,52,suburban,Less than $25.000,Price,Fibaro,1-5,Price,Yes,39,Biometrics - eyescan
+Male,32,urban,$150.000 or More,Quality,Loxone,10-15,Smart Features,Yes,74,NFC
+Female,48,rural,$25.000 to $50.000,Brand,Amazon Alexa,10-15,Price,Yes,35,Biometrics - eyescan
+Male,37,suburban,$25.000 to $50.000,Packaging,Amazon Alexa,10-15,Safety,Yes,48,Remote unlock by application
+Female,34,urban,$25.000 to $50.000,Brand,Loxone,,Brand,Yes,,Biometrics - fingerprint
+Female,41,suburban,$25.000 to $50.000,Price,None of these,,Safety,Yes,,Biometrics - photo
+Female,42,rural,Less than $25.000,Friend’s recommendation,Google Home,,Safety,No,,Biometrics - fingerprint
+Male,38,rural,$50.000 to $75.000,Convenience,None of these,,Remote Access,No,58,Remote unlock by application
+Male,51,rural,$50.000 to $75.000,Brand,Apple Home Kit,5-10,Safety,Yes,39,Biometrics - photo
+Male,40,suburban,$100.000 to $150.000,Price,Amazon Alexa,10-15,Brand,Yes,48,Conventional key
+Female,32,urban,$100.000 to $150.000,Packaging,Google Home,,Remote Access,No,,Biometrics - fingerprint
+Male,38,rural,$150.000 or More,Quality,Google Home,,Price,Yes,,NFC
+Female,45,urban,$150.000 or More,Friend’s recommendation,Amazon Alexa,10-15,Brand,Yes,33,Biometrics - eyescan
+Male,47,suburban,$150.000 or More,Packaging,Loxone,5-10,Brand,Yes,41,Biometrics - fingerprint
+Male,34,rural,Less than $25.000,Durability,None of these,,Remote Access,No,52,Biometrics - eyescan
+Female,29,urban,$100.000 to $150.000,Convenience,Amazon Alexa,10-15,Safety,Yes,71,NFC
+Female,39,rural,Less than $25.000,Durability,None of these,,Safety,No,50,Biometrics - fingerprint
+Male,56,rural,$25.000 to $50.000,Quality,Apple Home Kit,5-10,Brand,No,47,Remote unlock by application
+Male,37,suburban,$75.000 to $100.000,Brand,None of these,,Brand,Yes,59,Biometrics - eyescan
+Female,38,rural,$50.000 to $75.000,Durability,None of these,,Safety,Yes,43,Biometrics - fingerprint
+Female,43,urban,$100.000 to $150.000,Quality,None of these,,Remote Access,Yes,48,Remote unlock by application
+Male,41,urban,$75.000 to $100.000,Convenience,None of these,,Price,Yes,45,Biometrics - fingerprint
+Male,31,rural,$25.000 to $50.000,Friend’s recommendation,None of these,,Remote Access,No,55,Biometrics - photo
+Female,36,rural,Less than $25.000,Brand,Nest,1-5,Brand,No,73,Biometrics - eyescan
+Female,34,urban,$25.000 to $50.000,Convenience,Amazon Alexa,>15,Safety,Yes,66,Biometrics - fingerprint
+Male,37,suburban,Less than $25.000,Durability,None of these,,Brand,Yes,47,Biometrics - eyescan
+Female,44,urban,Less than $25.000,Price,iNels,,Safety,Yes,,NFC
+Female,35,suburban,$100.000 to $150.000,Quality,None of these,,Brand,No,59,Conventional key
+Male,44,rural,$25.000 to $50.000,Brand,Nest,5-10,Price,No,47,Biometrics - photo
+Female,31,rural,$150.000 or More,Quality,None of these,,Price,No,81,Remote unlock by application
+Female,41,suburban,$75.000 to $100.000,Quality,None of these,,Remote Access,No,53,Biometrics - eyescan
+Female,47,urban,Less than $25.000,Durability,None of these,,Remote Access,Yes,43,Remote unlock by application
+Female,29,suburban,$50.000 to $75.000,Durability,None of these,,Price,No,66,Biometrics - photo
+Male,30,urban,$75.000 to $100.000,Quality,None of these,,Price,Yes,74,Remote unlock by application
+Female,35,rural,$150.000 or More,Packaging,Fibaro,5-10,Brand,Yes,75,Remote unlock by application
+Male,37,urban,$100.000 to $150.000,Brand,Fibaro,>15,Price,Yes,53,Biometrics - fingerprint
+Male,50,urban,$75.000 to $100.000,Convenience,None of these,,Safety,No,44,Biometrics - photo
+Female,36,suburban,$25.000 to $50.000,Quality,Fibaro,,Smart Features,Yes,,Biometrics - fingerprint
+Male,37,suburban,Less than $25.000,Price,Nest,10-15,Safety,No,52,NFC
+Male,36,urban,$25.000 to $50.000,Brand,Loxone,5-10,Safety,Yes,59,Remote unlock by application
+Female,36,rural,$150.000 or More,Convenience,None of these,,Safety,No,56,Biometrics - photo
+Female,56,suburban,$150.000 or More,Convenience,None of these,,Safety,Yes,46,Biometrics - photo
+Female,35,rural,$150.000 or More,Brand,None of these,,Safety,Yes,50,Remote unlock by application
+Male,40,suburban,$50.000 to $75.000,Friend’s recommendation,Fibaro,>15,Smart Features,No,58,Biometrics - photo
+Male,35,rural,Less than $25.000,Packaging,Nest,1-5,Price,Yes,70,NFC
+Male,29,suburban,$25.000 to $50.000,Price,Loxone,1-5,Safety,Yes,56,Biometrics - fingerprint
+Female,45,urban,Less than $25.000,Price,None of these,,Smart Features,No,37,Biometrics - eyescan
+Female,47,rural,$50.000 to $75.000,Packaging,Google Home,10-15,Smart Features,No,52,NFC
+Female,37,urban,$100.000 to $150.000,Quality,Fibaro,1-5,Brand,No,63,Remote unlock by application
+Male,41,urban,$75.000 to $100.000,Brand,Google Home,10-15,Smart Features,No,40,Conventional key
+Male,42,suburban,$25.000 to $50.000,Brand,Apple Home Kit,10-15,Remote Access,Yes,58,Bluetooth
+Male,47,suburban,Less than $25.000,Brand,Apple Home Kit,10-15,Price,Yes,40,Biometrics - fingerprint
+Female,38,suburban,Less than $25.000,Durability,None of these,,Safety,Yes,51,NFC
+Female,42,urban,$100.000 to $150.000,Durability,None of these,,Remote Access,Yes,42,Biometrics - fingerprint
+Male,36,rural,$75.000 to $100.000,Quality,Apple Home Kit,5-10,Safety,Yes,64,NFC
+Male,35,suburban,$75.000 to $100.000,Durability,Fibaro,1-5,Safety,No,54,Conventional key
+Female,38,suburban,$150.000 or More,Friend’s recommendation,Loxone,,Safety,No,,Biometrics - eyescan
+Female,30,urban,$50.000 to $75.000,Brand,None of these,,Safety,No,85,NFC
+Male,39,urban,$150.000 or More,Brand,Loxone,5-10,Safety,Yes,52,NFC
+Male,46,rural,$100.000 to $150.000,Price,Amazon Alexa,10-15,Remote Access,Yes,41,Biometrics - fingerprint
+Female,35,rural,$50.000 to $75.000,Friend’s recommendation,Fibaro,1-5,Safety,No,67,Conventional key
+Male,40,rural,$100.000 to $150.000,Packaging,iNels,1-5,Safety,No,49,Remote unlock by application
+Female,39,rural,$25.000 to $50.000,Quality,Loxone,>15,Safety,Yes,57,Conventional key
+Male,44,urban,$150.000 or More,Friend’s recommendation,None of these,,Brand,No,41,Conventional key
+Male,45,urban,$25.000 to $50.000,Friend’s recommendation,None of these,,Safety,Yes,39,Biometrics - fingerprint
+Male,31,rural,Less than $25.000,Price,None of these,,Remote Access,No,,Biometrics - fingerprint
+Female,39,suburban,$25.000 to $50.000,Packaging,None of these,,Price,Yes,45,Remote unlock by application
+Male,36,rural,Less than $25.000,Durability,None of these,,Safety,Yes,59,Remote unlock by application
+Male,37,urban,Less than $25.000,Safety,None of these,,Safety,No,65,Conventional key
+Female,34,urban,$75.000 to $100.000,Safety,Amazon Alexa,10-15,Price,Yes,80,Bluetooth
+Male,38,urban,$150.000 or More,Quality,None of these,,Smart Features,No,57,Biometrics - photo
+Female,38,urban,$75.000 to $100.000,Quality,None of these,,Safety,Yes,65,Remote unlock by application
+Female,40,urban,Less than $25.000,Safety,Nest,1-5,Smart Features,No,39,Remote unlock by application
+Male,34,urban,$50.000 to $75.000,Brand,None of these,,Price,No,,Remote unlock by application
+Male,40,rural,$50.000 to $75.000,Brand,None of these,,Price,No,60,Biometrics - fingerprint
+Male,44,urban,Less than $25.000,Price,None of these,,Safety,Yes,,Conventional key
+Female,35,rural,$50.000 to $75.000,Durability,None of these,,Safety,No,51,Biometrics - eyescan
+Female,40,urban,$150.000 or More,Friend’s recommendation,None of these,,Safety,Yes,65,NFC
+Female,33,suburban,$100.000 to $150.000,Friend’s recommendation,Fibaro,>15,Safety,Yes,67,Conventional key
+Male,42,urban,$75.000 to $100.000,Quality,Google Home,10-15,Safety,Yes,55,Biometrics - fingerprint
+Female,37,rural,Less than $25.000,Packaging,iNels,1-5,Remote Access,Yes,51,NFC
+Male,55,rural,$150.000 or More,Packaging,Loxone,1-5,Smart Features,Yes,47,Biometrics - fingerprint
+Male,34,rural,$150.000 or More,Quality,Amazon Alexa,>15,Smart Features,No,66,Biometrics - fingerprint
+Male,43,suburban,$50.000 to $75.000,Durability,Apple Home Kit,,Smart Features,No,,Conventional key
+Female,44,suburban,$150.000 or More,Friend’s recommendation,Apple Home Kit,,Brand,No,,NFC
+Male,38,urban,$75.000 to $100.000,Safety,Loxone,1-5,Price,No,55,Biometrics - fingerprint
+Male,42,urban,$100.000 to $150.000,Packaging,Fibaro,5-10,Brand,No,52,Conventional key
+Male,27,urban,$100.000 to $150.000,Friend’s recommendation,Fibaro,5-10,Brand,Yes,86,Remote unlock by application
+Female,34,rural,Less than $25.000,Brand,None of these,,Smart Features,Yes,62,Biometrics - eyescan
+Female,32,suburban,$75.000 to $100.000,Friend’s recommendation,None of these,,Remote Access,Yes,74,Biometrics - eyescan
+Male,38,urban,$25.000 to $50.000,Friend’s recommendation,Amazon Alexa,1-5,Safety,Yes,57,Biometrics - fingerprint
+Female,34,suburban,$150.000 or More,Safety,Amazon Alexa,,Safety,Yes,,Conventional key
+Female,32,suburban,$75.000 to $100.000,Price,None of these,,Safety,Yes,80,Remote unlock by application
+Female,39,suburban,$150.000 or More,Brand,Fibaro,,Brand,Yes,,Biometrics - eyescan
+Female,34,urban,$100.000 to $150.000,Price,Google Home,1-5,Safety,No,51,Biometrics - fingerprint
+Male,58,suburban,$25.000 to $50.000,Safety,None of these,,Safety,Yes,33,NFC
+Male,39,rural,Less than $25.000,Safety,Nest,5-10,Price,Yes,53,Conventional key
+Male,42,urban,Less than $25.000,Quality,Google Home,10-15,Price,Yes,47,Remote unlock by application
+Female,42,suburban,Less than $25.000,Brand,None of these,,Price,Yes,52,Bluetooth
+Male,40,suburban,$75.000 to $100.000,Friend’s recommendation,Fibaro,1-5,Safety,No,54,NFC
+Male,48,urban,Less than $25.000,Durability,Google Home,,Remote Access,Yes,,NFC
+Male,42,suburban,$25.000 to $50.000,Durability,Loxone,,Safety,No,,Biometrics - photo
+Male,42,rural,$150.000 or More,Friend’s recommendation,Nest,1-5,Smart Features,Yes,51,Remote unlock by application
+Female,37,suburban,$100.000 to $150.000,Quality,Amazon Alexa,,Safety,Yes,,NFC
+Male,46,rural,Less than $25.000,Friend’s recommendation,None of these,,Safety,No,,Biometrics - photo
+Female,35,urban,$25.000 to $50.000,Price,None of these,,Smart Features,No,63,Biometrics - photo
+Female,34,rural,$25.000 to $50.000,Safety,None of these,,Price,No,65,Bluetooth
+Female,35,urban,$50.000 to $75.000,Safety,Fibaro,1-5,Price,Yes,69,Bluetooth
+Female,40,rural,$25.000 to $50.000,Brand,Fibaro,5-10,Price,Yes,55,Remote unlock by application
+Male,39,urban,$25.000 to $50.000,Convenience,Google Home,10-15,Safety,Yes,51,Remote unlock by application
+Female,32,rural,Less than $25.000,Safety,Nest,1-5,Safety,Yes,68,Biometrics - photo
+Female,43,rural,$150.000 or More,Friend’s recommendation,None of these,,Smart Features,No,51,Biometrics - fingerprint
+Female,49,urban,$150.000 or More,Brand,Fibaro,>15,Brand,Yes,37,Biometrics - fingerprint
+Female,41,urban,$75.000 to $100.000,Quality,None of these,,Price,No,53,NFC
+Male,34,suburban,Less than $25.000,Safety,Apple Home Kit,10-15,Price,Yes,66,Remote unlock by application
+Female,44,urban,$50.000 to $75.000,Durability,None of these,,Smart Features,Yes,,Remote unlock by application
+Female,41,urban,$50.000 to $75.000,Convenience,None of these,,Price,Yes,51,Bluetooth
+Female,47,rural,$150.000 or More,Brand,None of these,,Remote Access,Yes,44,Biometrics - photo
+Male,36,urban,$75.000 to $100.000,Price,Google Home,,Safety,Yes,,Conventional key
+Male,30,suburban,Less than $25.000,Friend’s recommendation,None of these,,Safety,No,81,Biometrics - fingerprint
+Male,44,urban,$75.000 to $100.000,Price,None of these,,Safety,No,53,Conventional key
+Female,39,rural,$75.000 to $100.000,Safety,None of these,,Price,Yes,56,Biometrics - eyescan
+Female,35,urban,Less than $25.000,Safety,None of these,,Safety,No,66,Conventional key
+Male,23,rural,$100.000 to $150.000,Price,Fibaro,1-5,Remote Access,No,109,Remote unlock by application
+Female,40,urban,$50.000 to $75.000,Durability,None of these,,Safety,Yes,72,Biometrics - photo
+Male,42,suburban,Less than $25.000,Safety,Google Home,10-15,Safety,Yes,52,Remote unlock by application
+Male,33,urban,$100.000 to $150.000,Packaging,None of these,,Brand,Yes,70,Biometrics - fingerprint
+Female,35,suburban,$75.000 to $100.000,Quality,Nest,1-5,Safety,No,64,Biometrics - fingerprint
+Female,33,urban,$75.000 to $100.000,Brand,None of these,,Safety,No,82,NFC
+Male,46,urban,$100.000 to $150.000,Brand,Apple Home Kit,>15,Smart Features,Yes,35,Biometrics - fingerprint
+Male,44,urban,Less than $25.000,Price,None of these,,Safety,Yes,45,Conventional key
+Male,36,urban,$50.000 to $75.000,Price,None of these,,Safety,No,68,NFC
+Male,36,urban,$50.000 to $75.000,Quality,None of these,,Smart Features,No,52,Biometrics - eyescan
+Female,47,suburban,$150.000 or More,Brand,Apple Home Kit,,Brand,No,,Biometrics - eyescan
+Female,41,urban,$150.000 or More,Quality,Amazon Alexa,>15,Safety,Yes,52,Biometrics - photo
+Female,50,suburban,$100.000 to $150.000,Packaging,None of these,,Safety,Yes,35,Biometrics - eyescan
+Male,41,urban,$150.000 or More,Safety,Fibaro,1-5,Remote Access,No,64,Biometrics - fingerprint
+Female,46,suburban,Less than $25.000,Price,None of these,,Price,No,42,Bluetooth
+Male,36,urban,Less than $25.000,Quality,None of these,,Safety,No,55,Biometrics - fingerprint
+Male,33,suburban,$75.000 to $100.000,Quality,Amazon Alexa,5-10,Safety,Yes,61,Biometrics - photo
+Male,38,rural,$25.000 to $50.000,Quality,Loxone,5-10,Price,Yes,39,Bluetooth
+Male,38,urban,$25.000 to $50.000,Convenience,Fibaro,>15,Safety,Yes,59,Remote unlock by application
+Male,28,suburban,$75.000 to $100.000,Brand,Google Home,10-15,Safety,Yes,81,Biometrics - eyescan
+Female,30,suburban,$50.000 to $75.000,Safety,None of these,,Safety,No,,NFC
+Male,34,rural,$50.000 to $75.000,Friend’s recommendation,Loxone,1-5,Price,Yes,53,Biometrics - fingerprint
+Female,35,urban,$150.000 or More,Quality,Loxone,5-10,Remote Access,Yes,70,Remote unlock by application
+Male,40,urban,$25.000 to $50.000,Safety,Nest,1-5,Price,Yes,59,Biometrics - fingerprint
+Female,42,rural,$50.000 to $75.000,Price,None of these,,Remote Access,No,57,Biometrics - photo
+Female,34,urban,$150.000 or More,Brand,Fibaro,5-10,Brand,Yes,85,Conventional key
+Male,45,suburban,Less than $25.000,Brand,Nest,,Safety,No,,Biometrics - photo
+Male,34,urban,Less than $25.000,Convenience,Apple Home Kit,10-15,Safety,Yes,60,Biometrics - eyescan
+Female,37,urban,$75.000 to $100.000,Price,None of these,,Safety,Yes,,NFC
+Male,47,urban,$50.000 to $75.000,Quality,Fibaro,10-15,Brand,Yes,49,Remote unlock by application
+Female,43,suburban,$50.000 to $75.000,Price,Fibaro,>15,Safety,Yes,56,Biometrics - fingerprint
+Male,46,urban,Less than $25.000,Price,None of these,,Safety,No,47,Conventional key
+Male,34,urban,$75.000 to $100.000,Brand,None of these,,Remote Access,Yes,,Biometrics - fingerprint
+Male,37,rural,$75.000 to $100.000,Friend’s recommendation,Amazon Alexa,,Brand,No,,Biometrics - eyescan
+Male,26,rural,$75.000 to $100.000,Quality,None of these,,Price,Yes,88,Biometrics - fingerprint
+Male,38,suburban,$50.000 to $75.000,Brand,Fibaro,>15,Safety,Yes,62,Conventional key
+Male,45,suburban,$150.000 or More,Brand,Fibaro,,Price,Yes,,Biometrics - eyescan
+Female,47,suburban,$150.000 or More,Packaging,Apple Home Kit,10-15,Brand,Yes,47,Conventional key
+Female,35,suburban,$100.000 to $150.000,Packaging,None of these,,Remote Access,No,57,Biometrics - fingerprint
+Female,44,rural,$150.000 or More,Brand,Apple Home Kit,>15,Smart Features,Yes,65,Biometrics - eyescan
+Female,45,urban,$75.000 to $100.000,Durability,None of these,,Safety,No,52,Biometrics - eyescan
+Male,44,rural,$50.000 to $75.000,Price,Google Home,10-15,Safety,Yes,53,Biometrics - photo
+Female,35,suburban,$50.000 to $75.000,Quality,iNels,1-5,Safety,No,35,NFC
+Male,38,suburban,$50.000 to $75.000,Brand,Loxone,1-5,Safety,No,54,Biometrics - photo
+Male,37,rural,$150.000 or More,Friend’s recommendation,Apple Home Kit,>15,Remote Access,Yes,45,NFC
+Female,37,urban,$25.000 to $50.000,Friend’s recommendation,Loxone,1-5,Brand,No,69,Biometrics - eyescan
+Male,39,urban,$25.000 to $50.000,Price,Loxone,>15,Smart Features,Yes,61,Bluetooth
+Male,37,rural,Less than $25.000,Brand,Fibaro,,Safety,Yes,,Biometrics - photo
+Female,25,rural,Less than $25.000,Price,None of these,,Price,No,86,Biometrics - photo
+Female,36,suburban,$100.000 to $150.000,Brand,None of these,,Price,No,67,Bluetooth
+Female,40,rural,$50.000 to $75.000,Brand,None of these,,Safety,No,63,Conventional key
+Female,40,urban,Less than $25.000,Safety,Fibaro,1-5,Remote Access,Yes,71,Remote unlock by application
+Female,39,urban,$50.000 to $75.000,Price,Fibaro,>15,Safety,Yes,46,Conventional key
+Female,42,rural,$25.000 to $50.000,Friend’s recommendation,iNels,,Brand,No,,Biometrics - eyescan
+Male,42,suburban,$100.000 to $150.000,Convenience,None of these,,Brand,No,44,Conventional key
+Male,40,rural,$150.000 or More,Brand,Amazon Alexa,10-15,Safety,Yes,54,Biometrics - eyescan
+Male,42,rural,$150.000 or More,Convenience,None of these,,Smart Features,No,49,Bluetooth
+Female,25,urban,$25.000 to $50.000,Friend’s recommendation,Loxone,5-10,Price,Yes,88,Biometrics - eyescan
+Male,41,suburban,$50.000 to $75.000,Convenience,None of these,,Price,No,,Bluetooth
+Male,34,urban,$50.000 to $75.000,Durability,iNels,1-5,Brand,No,70,Biometrics - eyescan
+Female,42,urban,$100.000 to $150.000,Quality,Google Home,,Price,No,,Bluetooth
+Female,38,suburban,$150.000 or More,Brand,None of these,,Brand,No,64,NFC
+Male,39,urban,$150.000 or More,Friend’s recommendation,Fibaro,1-5,Smart Features,No,52,NFC
+Male,41,suburban,$150.000 or More,Safety,Loxone,1-5,Remote Access,No,45,Remote unlock by application
+Male,37,urban,$25.000 to $50.000,Convenience,Fibaro,1-5,Safety,No,56,Remote unlock by application
+Female,48,suburban,$150.000 or More,Friend’s recommendation,None of these,,Safety,No,52,Remote unlock by application
+Male,45,rural,$25.000 to $50.000,Brand,Google Home,10-15,Price,Yes,49,Biometrics - fingerprint
+Female,29,suburban,$150.000 or More,Packaging,Amazon Alexa,5-10,Remote Access,No,68,Biometrics - fingerprint
+Male,31,urban,$100.000 to $150.000,Quality,Fibaro,1-5,Safety,Yes,82,Biometrics - fingerprint
+Female,41,rural,$150.000 or More,Convenience,Amazon Alexa,5-10,Remote Access,Yes,54,Remote unlock by application
+Male,36,suburban,$100.000 to $150.000,Price,Loxone,1-5,Brand,No,76,Biometrics - eyescan
+Female,38,suburban,$75.000 to $100.000,Friend’s recommendation,Apple Home Kit,,Safety,Yes,,NFC
+Female,40,urban,Less than $25.000,Price,Nest,5-10,Safety,Yes,49,Conventional key
+Male,40,rural,$50.000 to $75.000,Durability,Loxone,10-15,Safety,Yes,56,Remote unlock by application
+Female,37,suburban,$150.000 or More,Brand,Google Home,>15,Safety,No,49,Biometrics - photo
+Male,37,rural,Less than $25.000,Friend’s recommendation,Fibaro,>15,Safety,Yes,51,NFC
+Male,44,urban,$100.000 to $150.000,Quality,iNels,,Remote Access,Yes,,NFC
+Male,44,urban,$150.000 or More,Brand,Fibaro,>15,Safety,Yes,62,Biometrics - fingerprint
+Male,47,urban,$75.000 to $100.000,Price,None of these,,Safety,No,39,Remote unlock by application
+Male,39,suburban,$150.000 or More,Friend’s recommendation,None of these,,Remote Access,Yes,,Remote unlock by application
+Female,47,rural,$150.000 or More,Durability,Fibaro,10-15,Brand,Yes,46,Remote unlock by application
+Female,35,suburban,$50.000 to $75.000,Friend’s recommendation,Amazon Alexa,>15,Smart Features,Yes,75,Biometrics - photo
+Female,36,rural,Less than $25.000,Quality,Nest,1-5,Price,No,50,Biometrics - fingerprint
+Female,34,rural,$75.000 to $100.000,Convenience,Fibaro,1-5,Brand,No,48,NFC
+Male,38,urban,$25.000 to $50.000,Brand,None of these,,Remote Access,Yes,70,Biometrics - photo
+Female,47,rural,$25.000 to $50.000,Friend’s recommendation,Apple Home Kit,10-15,Safety,Yes,47,Conventional key
+Female,36,urban,Less than $25.000,Convenience,Nest,5-10,Price,No,59,Remote unlock by application
+Female,47,rural,$25.000 to $50.000,Brand,Apple Home Kit,>15,Smart Features,Yes,58,Biometrics - eyescan
+Male,37,urban,$150.000 or More,Brand,iNels,1-5,Safety,No,46,Conventional key
+Male,48,suburban,Less than $25.000,Price,None of these,,Price,Yes,43,Biometrics - eyescan
+Male,43,rural,$25.000 to $50.000,Convenience,Amazon Alexa,5-10,Safety,Yes,41,NFC
+Male,54,urban,$150.000 or More,Safety,None of these,,Remote Access,Yes,50,Remote unlock by application
+Male,40,rural,$25.000 to $50.000,Price,None of these,,Price,Yes,,Remote unlock by application
+Female,32,urban,$75.000 to $100.000,Quality,Amazon Alexa,5-10,Brand,Yes,59,Conventional key
+Male,43,urban,$25.000 to $50.000,Durability,None of these,,Price,No,53,Biometrics - photo
+Female,36,rural,$75.000 to $100.000,Convenience,None of these,,Safety,Yes,57,Biometrics - eyescan
+Male,33,suburban,$25.000 to $50.000,Friend’s recommendation,Google Home,,Price,No,,Biometrics - eyescan
+Male,55,urban,$25.000 to $50.000,Friend’s recommendation,Fibaro,,Safety,Yes,,Biometrics - fingerprint
+Male,33,urban,$50.000 to $75.000,Quality,Fibaro,10-15,Remote Access,Yes,70,Remote unlock by application
+Male,36,suburban,$150.000 or More,Friend’s recommendation,Amazon Alexa,10-15,Brand,Yes,50,Conventional key
+Female,42,suburban,$25.000 to $50.000,Convenience,Amazon Alexa,5-10,Price,Yes,61,Biometrics - eyescan
+Male,34,rural,$75.000 to $100.000,Brand,Apple Home Kit,10-15,Brand,No,48,Conventional key
+Male,39,rural,$100.000 to $150.000,Durability,Amazon Alexa,10-15,Price,Yes,71,Biometrics - eyescan
+Female,46,suburban,$75.000 to $100.000,Friend’s recommendation,Amazon Alexa,5-10,Price,Yes,43,Biometrics - fingerprint
+Female,32,urban,$50.000 to $75.000,Packaging,None of these,,Safety,No,57,Biometrics - eyescan
+Male,35,suburban,$150.000 or More,Price,Loxone,1-5,Smart Features,Yes,56,Bluetooth
+Male,43,suburban,Less than $25.000,Price,Loxone,1-5,Remote Access,No,56,Biometrics - photo
+Male,39,urban,$150.000 or More,Packaging,None of these,,Brand,No,44,Conventional key
+Female,41,rural,$150.000 or More,Packaging,Loxone,5-10,Safety,Yes,56,Biometrics - fingerprint
+Male,48,urban,Less than $25.000,Price,None of these,,Price,No,35,Remote unlock by application
+Male,35,rural,Less than $25.000,Durability,Nest,,Price,Yes,,Biometrics - fingerprint
+Male,28,urban,$150.000 or More,Quality,Loxone,1-5,Safety,No,88,Biometrics - eyescan
+Male,45,rural,$100.000 to $150.000,Convenience,Fibaro,1-5,Smart Features,No,61,Remote unlock by application
+Male,43,urban,$150.000 or More,Durability,Loxone,1-5,Safety,Yes,35,Remote unlock by application
+Male,38,rural,$25.000 to $50.000,Brand,Fibaro,,Remote Access,Yes,,Remote unlock by application
+Male,40,urban,$150.000 or More,Friend’s recommendation,Loxone,1-5,Brand,Yes,49,Conventional key
+Male,34,suburban,$75.000 to $100.000,Convenience,Apple Home Kit,5-10,Safety,Yes,51,Biometrics - eyescan
+Male,33,suburban,$75.000 to $100.000,Brand,None of these,,Safety,Yes,56,Biometrics - eyescan
+Male,32,rural,$25.000 to $50.000,Price,None of these,,Safety,No,68,Conventional key
+Male,50,rural,$50.000 to $75.000,Price,Amazon Alexa,5-10,Smart Features,Yes,37,Remote unlock by application
+Female,34,suburban,$100.000 to $150.000,Brand,Loxone,5-10,Safety,Yes,65,Conventional key
+Male,35,urban,$50.000 to $75.000,Convenience,iNels,1-5,Smart Features,No,51,Biometrics - eyescan
+Male,42,rural,$75.000 to $100.000,Safety,Amazon Alexa,10-15,Safety,Yes,48,Biometrics - photo
+Male,39,rural,$75.000 to $100.000,Durability,Fibaro,1-5,Safety,No,64,Conventional key
+Male,31,rural,$50.000 to $75.000,Price,Fibaro,5-10,Safety,No,54,Remote unlock by application
+Male,40,rural,$25.000 to $50.000,Safety,iNels,1-5,Smart Features,No,56,Biometrics - fingerprint
+Female,36,urban,$75.000 to $100.000,Friend’s recommendation,Apple Home Kit,>15,Smart Features,Yes,74,Biometrics - eyescan
+Female,35,suburban,$150.000 or More,Packaging,Amazon Alexa,>15,Safety,Yes,44,Biometrics - eyescan
+Female,43,urban,$25.000 to $50.000,Safety,Google Home,10-15,Brand,No,51,Conventional key
+Male,31,suburban,$75.000 to $100.000,Price,None of these,,Smart Features,No,67,NFC
+Male,31,urban,Less than $25.000,Price,None of these,,Safety,Yes,77,Biometrics - photo
+Female,46,urban,$25.000 to $50.000,Quality,iNels,1-5,Safety,No,46,Remote unlock by application
+Female,46,rural,Less than $25.000,Friend’s recommendation,Apple Home Kit,10-15,Price,Yes,48,Remote unlock by application
+Male,35,urban,$50.000 to $75.000,Price,Google Home,,Smart Features,No,,Biometrics - eyescan
+Female,56,urban,$50.000 to $75.000,Packaging,Google Home,10-15,Price,No,36,Biometrics - fingerprint
+Female,38,rural,Less than $25.000,Durability,Fibaro,1-5,Brand,Yes,58,Conventional key
+Female,37,suburban,$50.000 to $75.000,Price,None of these,,Smart Features,No,67,Remote unlock by application
+Female,38,urban,$50.000 to $75.000,Brand,Fibaro,>15,Safety,Yes,57,Remote unlock by application
+Male,39,rural,Less than $25.000,Safety,Fibaro,>15,Remote Access,Yes,60,Remote unlock by application
+Male,24,suburban,$25.000 to $50.000,Durability,Google Home,1-5,Brand,Yes,93,NFC
+Female,40,suburban,$50.000 to $75.000,Quality,None of these,,Price,Yes,45,Biometrics - fingerprint
+Male,47,suburban,$50.000 to $75.000,Price,Google Home,1-5,Price,No,44,Conventional key
+Female,46,rural,$150.000 or More,Friend’s recommendation,Google Home,1-5,Safety,No,57,Biometrics - eyescan
+Male,39,rural,$100.000 to $150.000,Brand,Amazon Alexa,,Smart Features,No,,Biometrics - eyescan
+Male,43,suburban,$100.000 to $150.000,Safety,Loxone,5-10,Safety,Yes,50,Conventional key
+Female,40,rural,$50.000 to $75.000,Packaging,Fibaro,1-5,Safety,No,51,NFC
+Female,37,rural,Less than $25.000,Packaging,None of these,,Price,Yes,62,Conventional key
+Male,37,urban,$100.000 to $150.000,Quality,Amazon Alexa,5-10,Safety,Yes,68,NFC
+Female,38,suburban,$50.000 to $75.000,Convenience,Amazon Alexa,>15,Smart Features,Yes,67,Remote unlock by application
+Female,45,rural,$50.000 to $75.000,Packaging,Loxone,1-5,Safety,Yes,36,NFC
+Male,49,rural,Less than $25.000,Safety,Loxone,10-15,Safety,Yes,35,Biometrics - eyescan
+Male,43,rural,$50.000 to $75.000,Price,None of these,,Price,No,39,Biometrics - fingerprint
+Female,34,suburban,$100.000 to $150.000,Brand,Amazon Alexa,10-15,Safety,Yes,61,Remote unlock by application
+Female,39,urban,$150.000 or More,Price,Amazon Alexa,>15,Remote Access,Yes,52,Remote unlock by application
+Female,40,suburban,$50.000 to $75.000,Quality,Fibaro,>15,Brand,Yes,51,Conventional key
+Female,36,urban,$75.000 to $100.000,Quality,Google Home,10-15,Smart Features,No,54,Biometrics - fingerprint
+Male,49,rural,$150.000 or More,Friend’s recommendation,Amazon Alexa,5-10,Remote Access,Yes,44,Remote unlock by application
+Female,43,suburban,Less than $25.000,Quality,Google Home,5-10,Price,Yes,48,Conventional key
+Male,43,rural,$100.000 to $150.000,Convenience,Loxone,,Safety,No,,NFC
+Male,30,rural,$100.000 to $150.000,Quality,None of these,,Remote Access,No,85,Remote unlock by application
+Male,47,rural,$150.000 or More,Quality,Amazon Alexa,10-15,Remote Access,Yes,56,Remote unlock by application
+Male,37,urban,$100.000 to $150.000,Safety,Nest,10-15,Price,Yes,62,Bluetooth
+Female,35,urban,Less than $25.000,Durability,None of these,,Price,No,79,Remote unlock by application
+Female,29,rural,$50.000 to $75.000,Brand,None of these,,Smart Features,No,72,Biometrics - photo
+Female,32,urban,$50.000 to $75.000,Brand,Fibaro,5-10,Safety,Yes,73,Biometrics - photo
+Male,38,suburban,$150.000 or More,Quality,Nest,5-10,Safety,Yes,62,Biometrics - fingerprint
+Female,39,urban,$100.000 to $150.000,Brand,None of these,,Smart Features,No,52,Biometrics - eyescan
+Male,43,urban,Less than $25.000,Price,Nest,1-5,Price,No,48,Remote unlock by application
+Female,29,urban,$100.000 to $150.000,Brand,Loxone,,Safety,Yes,,Remote unlock by application
+Female,37,urban,$150.000 or More,Quality,Amazon Alexa,10-15,Safety,Yes,45,Remote unlock by application
+Female,38,rural,Less than $25.000,Brand,Google Home,10-15,Price,Yes,58,Biometrics - eyescan
+Male,50,urban,$75.000 to $100.000,Safety,Google Home,10-15,Remote Access,Yes,34,Biometrics - fingerprint
+Male,30,rural,$75.000 to $100.000,Friend’s recommendation,Apple Home Kit,10-15,Remote Access,Yes,65,Biometrics - fingerprint
+Male,37,rural,$75.000 to $100.000,Safety,Fibaro,,Safety,Yes,,Conventional key
+Female,42,suburban,$75.000 to $100.000,Quality,None of these,,Price,No,38,Conventional key
+Female,42,rural,$50.000 to $75.000,Packaging,Fibaro,1-5,Safety,No,45,Biometrics - eyescan
+Female,37,rural,$50.000 to $75.000,Quality,Amazon Alexa,>15,Price,Yes,46,Conventional key
+Male,41,urban,$100.000 to $150.000,Brand,Fibaro,1-5,Price,No,41,Bluetooth
+Male,38,suburban,$50.000 to $75.000,Safety,Google Home,10-15,Remote Access,Yes,59,NFC
+Male,33,rural,$100.000 to $150.000,Brand,None of these,,Smart Features,No,66,Remote unlock by application
+Male,38,suburban,$100.000 to $150.000,Friend’s recommendation,None of these,,Safety,No,,NFC
+Male,34,urban,$50.000 to $75.000,Brand,Google Home,10-15,Smart Features,Yes,64,Bluetooth
+Female,30,rural,$75.000 to $100.000,Brand,Amazon Alexa,5-10,Safety,Yes,105,Biometrics - fingerprint
+Male,34,urban,$50.000 to $75.000,Packaging,None of these,,Brand,No,,Conventional key
+Female,53,suburban,$100.000 to $150.000,Convenience,None of these,,Safety,No,40,Biometrics - photo
+Male,45,suburban,$25.000 to $50.000,Convenience,None of these,,Safety,Yes,49,Remote unlock by application
+Male,44,suburban,$50.000 to $75.000,Durability,Amazon Alexa,10-15,Price,No,40,Biometrics - photo
+Female,38,suburban,Less than $25.000,Friend’s recommendation,None of these,,Price,Yes,60,Conventional key
+Male,39,suburban,$75.000 to $100.000,Convenience,None of these,,Price,Yes,45,Biometrics - eyescan
+Male,40,suburban,$100.000 to $150.000,Brand,Loxone,1-5,Brand,Yes,39,Conventional key
+Male,39,suburban,$75.000 to $100.000,Brand,Fibaro,1-5,Remote Access,No,70,Biometrics - eyescan
+Female,32,suburban,$75.000 to $100.000,Quality,None of these,,Price,No,53,Biometrics - fingerprint
+Male,40,rural,$150.000 or More,Durability,Apple Home Kit,10-15,Brand,Yes,37,Conventional key
+Male,40,rural,$75.000 to $100.000,Quality,Amazon Alexa,10-15,Price,Yes,42,Remote unlock by application
+Female,46,urban,$50.000 to $75.000,Friend’s recommendation,iNels,1-5,Safety,Yes,53,NFC
+Female,38,urban,$100.000 to $150.000,Packaging,Apple Home Kit,>15,Smart Features,Yes,49,Biometrics - eyescan
+Male,52,urban,$75.000 to $100.000,Durability,None of these,,Safety,No,,NFC
+Female,56,suburban,$150.000 or More,Quality,Apple Home Kit,1-5,Brand,No,36,Biometrics - fingerprint
+Female,36,suburban,$75.000 to $100.000,Quality,Apple Home Kit,10-15,Safety,Yes,55,Conventional key
+Female,40,urban,$150.000 or More,Packaging,None of these,,Safety,Yes,56,Biometrics - photo
+Male,50,rural,$75.000 to $100.000,Friend’s recommendation,Nest,1-5,Safety,No,56,Remote unlock by application
+Male,45,rural,$150.000 or More,Convenience,None of these,,Brand,Yes,56,Conventional key
+Female,37,rural,$25.000 to $50.000,Safety,Amazon Alexa,5-10,Safety,Yes,64,Conventional key
+Male,51,urban,$50.000 to $75.000,Durability,None of these,,Safety,No,48,Biometrics - eyescan
+Male,44,suburban,$150.000 or More,Brand,Fibaro,5-10,Remote Access,No,53,Bluetooth
+Male,39,rural,Less than $25.000,Safety,Google Home,5-10,Price,No,57,Conventional key
+Male,38,urban,$100.000 to $150.000,Brand,Amazon Alexa,10-15,Price,Yes,39,Remote unlock by application
+Male,40,rural,$25.000 to $50.000,Price,None of these,,Price,Yes,55,Biometrics - fingerprint
+Male,30,suburban,$150.000 or More,Packaging,Loxone,1-5,Price,No,66,Biometrics - fingerprint
+Male,45,suburban,Less than $25.000,Durability,None of these,,Price,Yes,,Biometrics - photo
+Male,35,rural,$150.000 or More,Packaging,Loxone,5-10,Smart Features,No,65,Remote unlock by application
+Male,54,rural,$25.000 to $50.000,Price,Nest,5-10,Safety,Yes,29,NFC
+Female,30,rural,$75.000 to $100.000,Durability,Loxone,5-10,Safety,Yes,79,NFC
+Male,32,rural,$50.000 to $75.000,Quality,None of these,,Safety,No,73,Remote unlock by application
+Female,43,rural,$50.000 to $75.000,Packaging,None of these,,Price,Yes,64,Remote unlock by application
+Male,44,rural,$100.000 to $150.000,Safety,Nest,5-10,Safety,Yes,45,Biometrics - eyescan
+Female,45,rural,$150.000 or More,Friend’s recommendation,Fibaro,1-5,Brand,No,36,Biometrics - eyescan
+Male,36,rural,$100.000 to $150.000,Durability,Apple Home Kit,10-15,Remote Access,No,51,Biometrics - fingerprint
+Female,45,urban,Less than $25.000,Quality,None of these,,Safety,No,48,Biometrics - fingerprint
+Male,36,suburban,$75.000 to $100.000,Convenience,Fibaro,5-10,Safety,Yes,76,Biometrics - eyescan
+Female,47,rural,$150.000 or More,Packaging,Amazon Alexa,1-5,Brand,No,56,Biometrics - eyescan
+Female,31,suburban,$100.000 to $150.000,Durability,None of these,,Brand,Yes,77,NFC
+Female,39,rural,$100.000 to $150.000,Packaging,None of these,,Brand,Yes,53,NFC
+Male,40,rural,$50.000 to $75.000,Convenience,None of these,,Smart Features,No,43,Biometrics - fingerprint
+Female,29,suburban,$25.000 to $50.000,Price,Loxone,1-5,Price,No,73,Biometrics - photo
+Male,42,rural,$75.000 to $100.000,Convenience,None of these,,Price,Yes,46,Biometrics - eyescan
+Male,32,rural,$50.000 to $75.000,Friend’s recommendation,Amazon Alexa,5-10,Price,No,59,Remote unlock by application
+Male,41,urban,$75.000 to $100.000,Friend’s recommendation,None of these,,Smart Features,No,68,NFC
+Male,44,urban,$150.000 or More,Quality,Apple Home Kit,,Safety,Yes,,Biometrics - eyescan
+Female,39,suburban,$100.000 to $150.000,Quality,None of these,,Smart Features,Yes,72,Remote unlock by application
+Female,42,urban,$75.000 to $100.000,Friend’s recommendation,None of these,,Price,Yes,45,Remote unlock by application
+Female,36,suburban,Less than $25.000,Price,Apple Home Kit,>15,Safety,No,50,Conventional key
+Female,44,suburban,$75.000 to $100.000,Friend’s recommendation,Amazon Alexa,10-15,Brand,Yes,64,Biometrics - fingerprint
+Male,40,suburban,$75.000 to $100.000,Packaging,None of these,,Safety,Yes,55,NFC
+Male,46,urban,$25.000 to $50.000,Brand,None of these,,Brand,No,,Biometrics - eyescan
+Male,46,urban,$75.000 to $100.000,Quality,None of these,,Safety,No,48,Biometrics - eyescan
+Male,40,suburban,$75.000 to $100.000,Convenience,Loxone,,Remote Access,Yes,,Remote unlock by application
+Female,36,urban,$100.000 to $150.000,Brand,Loxone,1-5,Brand,No,65,Remote unlock by application
+Male,43,rural,$150.000 or More,Friend’s recommendation,Loxone,,Safety,No,,Conventional key
+Male,51,urban,Less than $25.000,Quality,Google Home,1-5,Price,No,44,Biometrics - photo
+Male,36,rural,$100.000 to $150.000,Quality,None of these,,Price,No,63,Remote unlock by application
+Male,53,urban,$50.000 to $75.000,Brand,None of these,,Price,Yes,41,Remote unlock by application
+Female,51,urban,Less than $25.000,Quality,Nest,1-5,Remote Access,No,60,Remote unlock by application
+Male,41,urban,$150.000 or More,Brand,Amazon Alexa,10-15,Brand,Yes,62,Biometrics - photo
+Female,42,suburban,$75.000 to $100.000,Packaging,None of these,,Price,Yes,58,Remote unlock by application
+Male,42,urban,$100.000 to $150.000,Friend’s recommendation,None of these,,Remote Access,Yes,45,Biometrics - eyescan
+Female,34,rural,$100.000 to $150.000,Quality,None of these,,Safety,Yes,79,Conventional key
+Male,41,urban,$150.000 or More,Convenience,None of these,,Remote Access,Yes,59,Remote unlock by application
+Male,44,suburban,$25.000 to $50.000,Friend’s recommendation,Loxone,1-5,Price,No,46,Biometrics - eyescan
+Female,33,urban,Less than $25.000,Friend’s recommendation,Loxone,1-5,Safety,No,49,Conventional key
+Male,50,rural,$150.000 or More,Price,Fibaro,10-15,Safety,Yes,53,Conventional key
+Female,33,suburban,$150.000 or More,Safety,Loxone,1-5,Brand,No,80,Conventional key
+Female,39,rural,$50.000 to $75.000,Safety,Amazon Alexa,10-15,Price,Yes,48,Remote unlock by application
+Female,38,suburban,$50.000 to $75.000,Price,Amazon Alexa,5-10,Safety,Yes,61,Remote unlock by application
+Male,46,rural,$25.000 to $50.000,Safety,Loxone,10-15,Remote Access,No,49,Biometrics - fingerprint
+Female,42,suburban,$25.000 to $50.000,Friend’s recommendation,None of these,,Safety,Yes,47,Biometrics - photo
+Female,34,urban,$75.000 to $100.000,Durability,Google Home,1-5,Safety,No,48,Biometrics - fingerprint
+Male,51,urban,$150.000 or More,Packaging,None of these,,Brand,No,43,Biometrics - fingerprint
+Male,38,suburban,$100.000 to $150.000,Quality,Loxone,1-5,Safety,Yes,46,Biometrics - photo
+Female,39,urban,Less than $25.000,Safety,Nest,1-5,Safety,No,54,Biometrics - fingerprint
+Female,36,urban,Less than $25.000,Safety,None of these,,Safety,No,55,Biometrics - fingerprint
+Female,42,urban,Less than $25.000,Brand,None of these,,Smart Features,Yes,55,Biometrics - photo
+Female,33,suburban,$150.000 or More,Brand,Loxone,1-5,Remote Access,No,49,Biometrics - fingerprint
+Male,48,suburban,$150.000 or More,Safety,None of these,,Remote Access,Yes,48,NFC
+Female,40,suburban,$50.000 to $75.000,Friend’s recommendation,None of these,,Safety,Yes,64,Biometrics - eyescan
+Male,34,rural,$25.000 to $50.000,Durability,Google Home,5-10,Safety,No,63,Biometrics - fingerprint
+Male,28,rural,$75.000 to $100.000,Safety,None of these,,Price,No,80,Remote unlock by application
+Female,40,rural,$100.000 to $150.000,Brand,None of these,,Safety,Yes,45,Remote unlock by application
+Male,42,suburban,$25.000 to $50.000,Price,Fibaro,>15,Price,Yes,52,Bluetooth
+Female,32,suburban,$150.000 or More,Brand,Nest,1-5,Safety,Yes,51,Biometrics - eyescan
+Female,43,urban,$50.000 to $75.000,Packaging,Fibaro,>15,Smart Features,Yes,58,Biometrics - photo
+Male,38,rural,$25.000 to $50.000,Durability,Fibaro,>15,Safety,Yes,59,Remote unlock by application
+Male,42,urban,Less than $25.000,Safety,None of these,,Price,Yes,54,Biometrics - eyescan
+Female,47,urban,Less than $25.000,Durability,Nest,10-15,Safety,Yes,55,Biometrics - fingerprint
+Male,39,urban,$25.000 to $50.000,Convenience,Google Home,10-15,Smart Features,Yes,49,Biometrics - fingerprint
+Female,35,rural,Less than $25.000,Quality,Fibaro,>15,Price,Yes,46,Conventional key
+Male,41,rural,$150.000 or More,Price,Fibaro,1-5,Safety,No,40,Conventional key
+Female,40,suburban,$150.000 or More,Quality,Amazon Alexa,5-10,Brand,Yes,40,Conventional key
+Male,41,urban,$25.000 to $50.000,Packaging,Amazon Alexa,>15,Brand,Yes,57,Conventional key
+Female,29,urban,$150.000 or More,Quality,Loxone,1-5,Safety,No,70,Biometrics - fingerprint
+Female,47,rural,$75.000 to $100.000,Safety,None of these,,Smart Features,No,,NFC
+Male,43,suburban,$100.000 to $150.000,Quality,Amazon Alexa,1-5,Brand,No,50,Biometrics - fingerprint
+Male,34,urban,$100.000 to $150.000,Quality,None of these,,Safety,No,64,Biometrics - photo
+Female,37,rural,Less than $25.000,Price,Google Home,,Price,Yes,,Biometrics - photo
+Male,37,rural,$75.000 to $100.000,Safety,Fibaro,5-10,Safety,Yes,70,Conventional key
+Male,49,urban,Less than $25.000,Friend’s recommendation,None of these,,Safety,No,45,Remote unlock by application
+Male,42,rural,$75.000 to $100.000,Safety,None of these,,Safety,Yes,52,NFC
+Female,41,rural,Less than $25.000,Durability,None of these,,Brand,No,61,Conventional key
+Female,50,urban,$50.000 to $75.000,Quality,None of these,,Safety,Yes,34,Biometrics - photo
+Male,30,suburban,$50.000 to $75.000,Price,None of these,,Brand,Yes,66,Biometrics - eyescan
+Female,40,suburban,$100.000 to $150.000,Convenience,Amazon Alexa,1-5,Safety,No,63,Biometrics - fingerprint
+Female,37,rural,$150.000 or More,Friend’s recommendation,Loxone,5-10,Remote Access,Yes,56,Biometrics - fingerprint
+Male,39,urban,$25.000 to $50.000,Brand,None of these,,Safety,No,50,Conventional key
+Female,54,suburban,$75.000 to $100.000,Price,Fibaro,5-10,Price,Yes,37,Bluetooth
+Female,47,rural,$75.000 to $100.000,Durability,Apple Home Kit,>15,Safety,Yes,45,Biometrics - photo
+Female,46,suburban,$75.000 to $100.000,Friend’s recommendation,Fibaro,,Safety,Yes,,NFC
+Female,37,rural,$25.000 to $50.000,Brand,None of these,,Price,No,63,Biometrics - fingerprint
+Female,36,urban,$50.000 to $75.000,Quality,None of these,,Smart Features,No,35,NFC
+Male,42,suburban,$150.000 or More,Brand,Nest,5-10,Smart Features,Yes,43,Biometrics - fingerprint
+Male,46,rural,$25.000 to $50.000,Safety,Fibaro,>15,Safety,Yes,46,Remote unlock by application
+Female,35,urban,$150.000 or More,Brand,None of these,,Safety,No,65,Biometrics - eyescan
+Female,48,suburban,$25.000 to $50.000,Price,Google Home,1-5,Safety,Yes,47,Biometrics - fingerprint
+Male,35,suburban,$50.000 to $75.000,Packaging,Amazon Alexa,5-10,Safety,Yes,44,NFC
+Male,35,urban,$150.000 or More,Friend’s recommendation,Loxone,10-15,Remote Access,Yes,54,Remote unlock by application
+Male,43,rural,$25.000 to $50.000,Price,Google Home,>15,Brand,Yes,50,Biometrics - fingerprint
+Female,36,suburban,$100.000 to $150.000,Brand,Loxone,>15,Smart Features,Yes,76,NFC
+Female,52,rural,$100.000 to $150.000,Friend’s recommendation,None of these,,Price,Yes,28,Remote unlock by application
+Female,35,suburban,$150.000 or More,Friend’s recommendation,Loxone,1-5,Remote Access,No,44,Remote unlock by application
+Male,47,urban,$150.000 or More,Quality,None of these,,Safety,No,37,Remote unlock by application
+Female,27,suburban,$50.000 to $75.000,Brand,None of these,,Safety,No,70,Remote unlock by application
+Male,39,rural,$50.000 to $75.000,Convenience,None of these,,Smart Features,No,36,NFC
+Male,43,suburban,Less than $25.000,Durability,Google Home,5-10,Safety,Yes,34,Biometrics - photo
+Male,48,urban,$100.000 to $150.000,Quality,Fibaro,1-5,Remote Access,Yes,43,Remote unlock by application
+Male,37,rural,$75.000 to $100.000,Price,None of these,,Price,No,62,Bluetooth
+Female,35,suburban,$150.000 or More,Quality,None of these,,Brand,Yes,57,Biometrics - eyescan
+Female,44,suburban,$25.000 to $50.000,Brand,None of these,,Remote Access,No,57,Remote unlock by application
+Male,34,urban,Less than $25.000,Durability,Loxone,1-5,Brand,Yes,64,Conventional key
+Female,45,suburban,$50.000 to $75.000,Brand,None of these,,Safety,Yes,66,NFC
+Male,41,rural,$75.000 to $100.000,Quality,None of these,,Safety,Yes,47,Remote unlock by application
+Male,33,rural,$150.000 or More,Safety,None of these,,Remote Access,Yes,53,Biometrics - photo
+Male,37,suburban,Less than $25.000,Price,Loxone,5-10,Smart Features,Yes,55,NFC
+Female,29,rural,$25.000 to $50.000,Quality,None of these,,Remote Access,No,,Biometrics - fingerprint
+Female,31,rural,$150.000 or More,Friend’s recommendation,Loxone,>15,Brand,No,60,Biometrics - eyescan
+Female,39,rural,$75.000 to $100.000,Friend’s recommendation,Loxone,1-5,Price,No,67,Conventional key
+Female,40,urban,$25.000 to $50.000,Friend’s recommendation,None of these,,Safety,No,74,Biometrics - photo
+Male,43,suburban,$150.000 or More,Brand,None of these,,Brand,Yes,51,Biometrics - fingerprint
+Male,36,rural,$75.000 to $100.000,Quality,None of these,,Safety,No,48,Conventional key
+Male,28,suburban,$50.000 to $75.000,Packaging,Loxone,1-5,Safety,Yes,87,Remote unlock by application
+Male,32,suburban,$50.000 to $75.000,Convenience,None of these,,Safety,No,67,Conventional key
+Male,37,urban,$100.000 to $150.000,Friend’s recommendation,Amazon Alexa,10-15,Smart Features,Yes,63,Biometrics - eyescan
+Male,49,suburban,$150.000 or More,Brand,None of these,,Smart Features,Yes,47,Biometrics - eyescan
+Male,44,suburban,$150.000 or More,Brand,Amazon Alexa,10-15,Safety,Yes,54,Biometrics - eyescan
+Male,31,urban,$100.000 to $150.000,Brand,None of these,,Remote Access,Yes,46,Remote unlock by application
+Female,48,suburban,$50.000 to $75.000,Brand,Apple Home Kit,>15,Brand,Yes,36,Biometrics - photo
+Female,41,suburban,$75.000 to $100.000,Convenience,Nest,1-5,Safety,No,35,Biometrics - eyescan
+Male,38,rural,$75.000 to $100.000,Quality,Nest,1-5,Safety,No,49,Biometrics - eyescan
+Female,41,rural,$75.000 to $100.000,Friend’s recommendation,Fibaro,1-5,Smart Features,No,58,Biometrics - eyescan
+Female,43,urban,$25.000 to $50.000,Quality,Amazon Alexa,5-10,Price,No,48,Biometrics - fingerprint
+Female,50,urban,$100.000 to $150.000,Brand,Loxone,1-5,Brand,No,58,Remote unlock by application
+Female,37,urban,$150.000 or More,Packaging,Loxone,1-5,Brand,Yes,67,Conventional key
+Female,45,suburban,$50.000 to $75.000,Brand,Amazon Alexa,5-10,Safety,Yes,55,Conventional key
+Female,45,rural,$100.000 to $150.000,Brand,None of these,,Brand,No,33,Bluetooth
+Female,32,rural,$100.000 to $150.000,Convenience,Amazon Alexa,>15,Safety,Yes,65,Biometrics - fingerprint
+Female,34,suburban,$100.000 to $150.000,Packaging,Loxone,>15,Smart Features,Yes,61,NFC
+Male,41,urban,$150.000 or More,Packaging,None of these,,Safety,No,46,Conventional key
+Male,38,urban,$100.000 to $150.000,Brand,None of these,,Remote Access,No,58,Remote unlock by application
+Female,49,rural,$50.000 to $75.000,Quality,Amazon Alexa,,Smart Features,No,,Biometrics - fingerprint
+Female,46,suburban,$50.000 to $75.000,Convenience,Google Home,>15,Smart Features,Yes,50,Bluetooth
+Male,44,urban,$25.000 to $50.000,Brand,Loxone,1-5,Safety,Yes,48,NFC
+Male,50,rural,Less than $25.000,Quality,iNels,,Price,No,,Bluetooth
+Female,49,urban,$75.000 to $100.000,Convenience,Apple Home Kit,>15,Safety,Yes,37,Conventional key
+Male,36,urban,$50.000 to $75.000,Brand,Fibaro,5-10,Safety,Yes,57,NFC
+Male,38,urban,Less than $25.000,Brand,None of these,,Price,No,58,Remote unlock by application
+Male,39,suburban,$100.000 to $150.000,Quality,Apple Home Kit,5-10,Safety,No,56,Biometrics - eyescan
+Female,45,rural,$75.000 to $100.000,Friend’s recommendation,None of these,,Safety,No,49,Biometrics - fingerprint
+Male,32,suburban,$75.000 to $100.000,Brand,Fibaro,1-5,Price,No,75,Biometrics - fingerprint
+Female,38,suburban,$25.000 to $50.000,Friend’s recommendation,Loxone,,Smart Features,Yes,,Biometrics - photo
+Female,44,urban,$100.000 to $150.000,Quality,iNels,1-5,Safety,Yes,64,Biometrics - eyescan
+Male,39,rural,$100.000 to $150.000,Brand,Nest,1-5,Price,Yes,52,Conventional key
+Male,39,urban,$100.000 to $150.000,Friend’s recommendation,iNels,1-5,Brand,No,43,Conventional key
+Female,36,urban,Less than $25.000,Safety,None of these,,Price,Yes,61,Remote unlock by application
+Female,37,rural,$25.000 to $50.000,Friend’s recommendation,Google Home,10-15,Safety,Yes,61,Biometrics - photo
+Female,36,rural,$100.000 to $150.000,Durability,None of these,,Remote Access,Yes,70,Bluetooth
+Female,37,rural,$50.000 to $75.000,Brand,Google Home,1-5,Safety,No,46,NFC
+Female,38,urban,$75.000 to $100.000,Quality,Fibaro,1-5,Price,No,39,Biometrics - fingerprint
+Male,46,urban,$100.000 to $150.000,Brand,Nest,5-10,Safety,Yes,59,NFC
+Female,44,suburban,$75.000 to $100.000,Price,None of these,,Brand,Yes,48,Biometrics - eyescan
+Female,46,urban,Less than $25.000,Convenience,None of these,,Price,No,,Remote unlock by application
+Male,42,urban,$100.000 to $150.000,Convenience,Fibaro,1-5,Safety,No,45,Biometrics - fingerprint
+Male,35,suburban,Less than $25.000,Durability,iNels,1-5,Price,Yes,52,Biometrics - fingerprint
+Male,42,urban,$50.000 to $75.000,Convenience,None of these,,Smart Features,No,63,NFC
+Male,38,rural,$75.000 to $100.000,Brand,None of these,,Brand,Yes,46,Conventional key
+Female,31,rural,$100.000 to $150.000,Price,Amazon Alexa,5-10,Safety,Yes,63,Remote unlock by application
+Female,66,suburban,$150.000 or More,Packaging,None of these,,Smart Features,Yes,30,Biometrics - fingerprint
+Female,40,rural,$75.000 to $100.000,Friend’s recommendation,None of these,,Safety,No,42,Biometrics - photo
+Male,42,suburban,$100.000 to $150.000,Quality,None of these,,Smart Features,No,48,Bluetooth
+Male,38,urban,$50.000 to $75.000,Convenience,Fibaro,1-5,Safety,No,37,NFC
+Male,51,suburban,$75.000 to $100.000,Convenience,Nest,5-10,Smart Features,Yes,43,NFC
+Male,35,urban,$25.000 to $50.000,Brand,Loxone,>15,Safety,Yes,59,Biometrics - eyescan
+Male,45,urban,$100.000 to $150.000,Brand,Loxone,,Brand,No,,Bluetooth
+Male,40,rural,$75.000 to $100.000,Friend’s recommendation,None of these,,Safety,Yes,61,Remote unlock by application
+Male,34,urban,$75.000 to $100.000,Brand,None of these,,Price,Yes,,Remote unlock by application
+Male,39,rural,$25.000 to $50.000,Convenience,Fibaro,10-15,Brand,Yes,55,Conventional key
+Female,36,rural,Less than $25.000,Brand,Google Home,1-5,Safety,Yes,70,NFC
+Male,44,rural,$100.000 to $150.000,Packaging,Apple Home Kit,10-15,Brand,Yes,50,Biometrics - fingerprint
+Male,39,rural,Less than $25.000,Friend’s recommendation,None of these,,Safety,No,58,Biometrics - eyescan
+Male,44,urban,$100.000 to $150.000,Brand,Amazon Alexa,>15,Smart Features,Yes,49,Bluetooth
+Male,49,urban,$50.000 to $75.000,Brand,None of these,,Safety,No,39,Biometrics - photo
+Female,43,suburban,$25.000 to $50.000,Price,None of these,,Brand,No,32,Biometrics - fingerprint
+Female,43,rural,$25.000 to $50.000,Durability,None of these,,Remote Access,No,54,NFC
+Male,43,suburban,$50.000 to $75.000,Friend’s recommendation,None of these,,Price,Yes,35,Bluetooth
+Male,42,rural,$75.000 to $100.000,Quality,Fibaro,10-15,Safety,Yes,50,Biometrics - photo
+Female,37,rural,$25.000 to $50.000,Brand,Amazon Alexa,>15,Safety,Yes,63,Biometrics - photo
+Female,52,rural,Less than $25.000,Price,None of these,,Remote Access,No,37,Remote unlock by application
+Male,37,suburban,$150.000 or More,Friend’s recommendation,Loxone,5-10,Brand,Yes,63,Remote unlock by application
+Male,23,suburban,$100.000 to $150.000,Brand,None of these,,Brand,No,83,Biometrics - fingerprint
+Female,45,rural,$75.000 to $100.000,Safety,Amazon Alexa,10-15,Price,Yes,50,Remote unlock by application
+Male,45,suburban,Less than $25.000,Quality,Nest,5-10,Safety,Yes,45,Conventional key
+Female,50,suburban,Less than $25.000,Convenience,Loxone,1-5,Safety,No,36,NFC
+Female,36,suburban,$100.000 to $150.000,Friend’s recommendation,None of these,,Brand,Yes,60,Biometrics - photo
+Female,41,urban,$75.000 to $100.000,Quality,Loxone,1-5,Smart Features,No,34,NFC
+Male,39,urban,$50.000 to $75.000,Durability,Fibaro,1-5,Smart Features,Yes,52,Biometrics - fingerprint
+Male,45,suburban,$150.000 or More,Brand,Amazon Alexa,1-5,Remote Access,No,39,Biometrics - eyescan
+Female,39,rural,$75.000 to $100.000,Friend’s recommendation,Nest,5-10,Safety,Yes,49,NFC
+Male,37,suburban,$100.000 to $150.000,Friend’s recommendation,Fibaro,>15,Safety,No,53,Biometrics - fingerprint
+Male,49,suburban,$150.000 or More,Friend’s recommendation,Apple Home Kit,10-15,Safety,No,38,Remote unlock by application
+Male,44,urban,$100.000 to $150.000,Packaging,None of these,,Smart Features,No,38,Biometrics - fingerprint
+Male,61,suburban,$150.000 or More,Quality,Apple Home Kit,5-10,Smart Features,Yes,35,NFC
+Male,34,rural,Less than $25.000,Safety,Nest,1-5,Safety,No,63,Biometrics - fingerprint
+Male,44,urban,$100.000 to $150.000,Packaging,None of these,,Remote Access,Yes,,NFC
+Male,41,rural,$100.000 to $150.000,Brand,iNels,1-5,Smart Features,Yes,52,Biometrics - fingerprint
+Female,38,urban,Less than $25.000,Friend’s recommendation,Apple Home Kit,>15,Safety,No,43,Biometrics - eyescan
+Female,46,rural,$150.000 or More,Brand,None of these,,Remote Access,Yes,54,Remote unlock by application
+Female,37,urban,$100.000 to $150.000,Brand,Apple Home Kit,5-10,Remote Access,Yes,68,Biometrics - eyescan
+Male,39,suburban,$50.000 to $75.000,Convenience,None of these,,Price,No,,Remote unlock by application
+Male,32,rural,$100.000 to $150.000,Quality,Google Home,10-15,Smart Features,Yes,55,Remote unlock by application
+Female,37,urban,$150.000 or More,Quality,Amazon Alexa,>15,Safety,Yes,53,Conventional key
+Male,42,urban,Less than $25.000,Brand,Apple Home Kit,,Price,Yes,,Biometrics - fingerprint
+Female,46,rural,$100.000 to $150.000,Quality,None of these,,Remote Access,No,44,Remote unlock by application
+Male,41,rural,$25.000 to $50.000,Friend’s recommendation,iNels,1-5,Safety,No,45,Conventional key
+Female,35,rural,$50.000 to $75.000,Price,None of these,,Safety,No,59,Biometrics - eyescan
+Female,43,suburban,$150.000 or More,Brand,None of these,,Remote Access,No,51,Biometrics - fingerprint
+Male,36,suburban,$150.000 or More,Quality,Apple Home Kit,>15,Remote Access,No,71,Bluetooth
+Male,49,suburban,$25.000 to $50.000,Brand,Fibaro,>15,Safety,Yes,34,NFC
+Male,42,rural,$25.000 to $50.000,Brand,None of these,,Remote Access,No,69,Biometrics - fingerprint
+Female,44,urban,$100.000 to $150.000,Quality,None of these,,Smart Features,No,45,NFC
+Female,53,suburban,$75.000 to $100.000,Friend’s recommendation,None of these,,Safety,No,38,NFC
+Female,50,urban,$75.000 to $100.000,Packaging,Apple Home Kit,10-15,Remote Access,Yes,48,Remote unlock by application
+Female,47,urban,$25.000 to $50.000,Convenience,Loxone,1-5,Safety,Yes,57,Biometrics - photo
+Female,45,urban,$100.000 to $150.000,Convenience,Loxone,1-5,Brand,No,42,Biometrics - eyescan
+Female,46,urban,$75.000 to $100.000,Brand,Loxone,10-15,Remote Access,Yes,43,Remote unlock by application
+Female,42,rural,$25.000 to $50.000,Price,Fibaro,1-5,Safety,No,42,Conventional key
+Female,33,rural,$75.000 to $100.000,Packaging,Fibaro,>15,Remote Access,Yes,50,Biometrics - photo
+Female,49,suburban,$100.000 to $150.000,Quality,Fibaro,1-5,Remote Access,Yes,54,Biometrics - fingerprint
+Male,33,rural,$75.000 to $100.000,Safety,Loxone,1-5,Price,No,81,Biometrics - fingerprint
+Female,38,suburban,$50.000 to $75.000,Brand,None of these,,Brand,No,46,Conventional key
+Female,34,rural,Less than $25.000,Quality,None of these,,Price,Yes,54,Remote unlock by application
+Female,48,rural,$50.000 to $75.000,Quality,None of these,,Price,No,56,Biometrics - photo
+Male,36,rural,$50.000 to $75.000,Safety,Amazon Alexa,,Brand,No,,Conventional key
+Female,42,urban,$150.000 or More,Brand,None of these,,Remote Access,No,47,Bluetooth
+Male,39,urban,$100.000 to $150.000,Quality,None of these,,Safety,No,47,NFC
+Female,35,urban,$150.000 or More,Convenience,Loxone,10-15,Safety,No,56,Remote unlock by application
+Female,49,urban,$75.000 to $100.000,Convenience,Nest,1-5,Price,No,50,Remote unlock by application
+Female,45,suburban,$100.000 to $150.000,Price,Fibaro,10-15,Remote Access,Yes,45,NFC
+Female,37,urban,$25.000 to $50.000,Quality,Amazon Alexa,5-10,Safety,Yes,71,Biometrics - fingerprint
+Male,43,rural,$150.000 or More,Packaging,Amazon Alexa,5-10,Safety,Yes,50,NFC
+Female,49,suburban,$75.000 to $100.000,Safety,None of these,,Price,No,51,Biometrics - fingerprint
+Female,35,urban,$50.000 to $75.000,Durability,Google Home,1-5,Remote Access,Yes,53,Biometrics - eyescan
+Male,46,urban,$150.000 or More,Packaging,Apple Home Kit,5-10,Brand,Yes,58,Conventional key
+Female,46,suburban,$75.000 to $100.000,Convenience,Google Home,>15,Safety,Yes,50,NFC
+Female,42,rural,$25.000 to $50.000,Convenience,None of these,,Safety,Yes,48,Remote unlock by application
+Male,45,rural,$25.000 to $50.000,Price,Loxone,5-10,Smart Features,No,30,Biometrics - fingerprint
+Female,32,rural,$150.000 or More,Convenience,None of these,,Safety,Yes,84,Biometrics - eyescan
+Male,49,suburban,$100.000 to $150.000,Quality,None of these,,Safety,No,62,NFC
+Female,39,rural,$25.000 to $50.000,Price,Amazon Alexa,5-10,Price,Yes,57,NFC
+Female,47,rural,$25.000 to $50.000,Convenience,Loxone,5-10,Price,No,54,Bluetooth
+Female,49,rural,$100.000 to $150.000,Quality,None of these,,Smart Features,No,37,Biometrics - fingerprint
+Male,47,suburban,$100.000 to $150.000,Friend’s recommendation,Loxone,1-5,Smart Features,No,46,NFC
+Male,37,rural,$75.000 to $100.000,Friend’s recommendation,None of these,,Safety,No,64,Biometrics - eyescan
+Female,32,urban,$75.000 to $100.000,Friend’s recommendation,Nest,10-15,Smart Features,Yes,54,Biometrics - fingerprint
+Male,53,suburban,Less than $25.000,Price,Nest,,Price,No,,Biometrics - photo
+Male,38,suburban,$50.000 to $75.000,Price,Loxone,5-10,Safety,No,53,Biometrics - fingerprint
+Female,44,urban,$150.000 or More,Brand,Loxone,>15,Safety,Yes,48,NFC
+Male,38,suburban,$100.000 to $150.000,Durability,Fibaro,5-10,Safety,Yes,46,NFC
+Male,51,rural,$75.000 to $100.000,Packaging,iNels,1-5,Price,No,38,Biometrics - fingerprint
+Male,34,urban,$150.000 or More,Friend’s recommendation,None of these,,Remote Access,Yes,78,Remote unlock by application
+Female,31,rural,$50.000 to $75.000,Safety,Amazon Alexa,5-10,Smart Features,Yes,72,Biometrics - eyescan
+Female,44,suburban,$100.000 to $150.000,Quality,None of these,,Smart Features,Yes,58,Conventional key
+Female,45,rural,$75.000 to $100.000,Safety,Fibaro,>15,Price,Yes,53,NFC
+Male,39,rural,Less than $25.000,Quality,None of these,,Price,No,57,Remote unlock by application
+Female,39,rural,$75.000 to $100.000,Friend’s recommendation,Loxone,5-10,Price,No,67,Biometrics - fingerprint
+Male,41,suburban,$75.000 to $100.000,Quality,Fibaro,>15,Safety,Yes,54,Biometrics - eyescan
+Female,40,rural,$75.000 to $100.000,Brand,Fibaro,>15,Remote Access,Yes,61,Biometrics - fingerprint
+Female,40,rural,$100.000 to $150.000,Friend’s recommendation,None of these,,Brand,No,,Bluetooth
+Female,34,suburban,$25.000 to $50.000,Quality,Amazon Alexa,5-10,Price,Yes,64,Biometrics - photo
+Female,36,rural,$25.000 to $50.000,Durability,Loxone,1-5,Safety,Yes,59,Biometrics - eyescan
+Female,39,rural,$150.000 or More,Quality,None of these,,Smart Features,No,45,Remote unlock by application
+Male,37,suburban,Less than $25.000,Price,None of these,,Smart Features,Yes,41,Biometrics - eyescan
+Female,44,urban,$75.000 to $100.000,Quality,None of these,,Safety,No,43,Biometrics - photo
+Male,43,urban,$150.000 or More,Safety,Loxone,1-5,Remote Access,No,49,Bluetooth
+Male,39,suburban,Less than $25.000,Packaging,Loxone,1-5,Smart Features,No,50,NFC
+Male,42,suburban,$75.000 to $100.000,Price,None of these,,Safety,No,62,Remote unlock by application
+Female,41,urban,$75.000 to $100.000,Friend’s recommendation,Amazon Alexa,,Safety,Yes,,Biometrics - fingerprint
+Male,28,rural,$50.000 to $75.000,Quality,Fibaro,,Smart Features,No,,Biometrics - fingerprint
+Male,44,urban,Less than $25.000,Durability,None of these,,Safety,Yes,52,Biometrics - fingerprint
+Male,38,suburban,$100.000 to $150.000,Packaging,Amazon Alexa,>15,Remote Access,No,59,Remote unlock by application
+Male,44,suburban,$150.000 or More,Safety,Apple Home Kit,10-15,Remote Access,Yes,46,Remote unlock by application
+Male,36,rural,$25.000 to $50.000,Price,Amazon Alexa,>15,Price,Yes,46,Biometrics - fingerprint
+Female,43,rural,$25.000 to $50.000,Quality,None of these,,Safety,No,50,Biometrics - fingerprint
+Female,43,urban,$100.000 to $150.000,Brand,None of these,,Price,Yes,62,Remote unlock by application
+Male,46,rural,$25.000 to $50.000,Friend’s recommendation,Loxone,5-10,Price,Yes,44,Biometrics - fingerprint
+Male,47,urban,$50.000 to $75.000,Convenience,Fibaro,>15,Smart Features,Yes,55,Bluetooth
+Female,46,rural,$100.000 to $150.000,Packaging,Loxone,5-10,Smart Features,No,46,Bluetooth
+Male,37,rural,$50.000 to $75.000,Convenience,iNels,1-5,Smart Features,No,70,Biometrics - fingerprint
+Male,36,urban,$75.000 to $100.000,Packaging,Amazon Alexa,1-5,Smart Features,Yes,80,NFC
+Male,44,suburban,Less than $25.000,Price,Nest,1-5,Safety,No,56,Biometrics - photo
+Female,38,suburban,$100.000 to $150.000,Brand,None of these,,Safety,No,62,Biometrics - fingerprint
+Female,31,urban,$150.000 or More,Quality,Fibaro,1-5,Remote Access,No,56,Biometrics - fingerprint
+Female,37,suburban,$25.000 to $50.000,Price,Fibaro,1-5,Price,No,45,Remote unlock by application
+Male,48,rural,$50.000 to $75.000,Friend’s recommendation,Loxone,1-5,Safety,No,44,NFC
+Female,37,urban,$75.000 to $100.000,Price,Loxone,,Smart Features,No,,Biometrics - fingerprint
+Female,37,suburban,$50.000 to $75.000,Durability,Loxone,1-5,Safety,No,48,Conventional key
+Male,37,urban,$50.000 to $75.000,Durability,None of these,,Smart Features,No,51,Biometrics - eyescan
+Male,41,urban,$150.000 or More,Friend’s recommendation,Apple Home Kit,5-10,Safety,No,43,Biometrics - fingerprint
+Female,32,urban,$50.000 to $75.000,Packaging,iNels,1-5,Price,No,75,Biometrics - photo
+Male,36,suburban,$50.000 to $75.000,Friend’s recommendation,None of these,,Remote Access,Yes,51,Remote unlock by application
+Female,47,rural,Less than $25.000,Price,Nest,5-10,Safety,Yes,49,Biometrics - fingerprint
+Female,56,rural,$75.000 to $100.000,Quality,Google Home,5-10,Price,Yes,37,Biometrics - eyescan
+Male,42,urban,Less than $25.000,Brand,None of these,,Safety,No,41,NFC
+Male,43,urban,$50.000 to $75.000,Price,Loxone,5-10,Smart Features,Yes,37,NFC
+Female,57,urban,Less than $25.000,Safety,Google Home,1-5,Safety,No,39,NFC
+Male,44,urban,Less than $25.000,Quality,None of these,,Price,Yes,50,Remote unlock by application
+Male,38,urban,$25.000 to $50.000,Brand,None of these,,Safety,No,52,NFC
+Male,46,rural,$25.000 to $50.000,Price,None of these,,Safety,Yes,55,NFC
+Male,36,suburban,Less than $25.000,Brand,Google Home,1-5,Safety,Yes,62,Remote unlock by application
+Female,42,urban,$25.000 to $50.000,Friend’s recommendation,Fibaro,,Price,Yes,,Conventional key
+Male,43,rural,$150.000 or More,Quality,None of these,,Brand,No,46,NFC
+Male,30,rural,$100.000 to $150.000,Quality,Nest,1-5,Brand,No,89,Biometrics - fingerprint
+Female,46,urban,$100.000 to $150.000,Quality,None of these,,Safety,No,43,Biometrics - photo
+Female,49,rural,$75.000 to $100.000,Price,Fibaro,1-5,Smart Features,No,42,Biometrics - fingerprint
+Male,41,rural,Less than $25.000,Price,Apple Home Kit,,Price,No,,Remote unlock by application
+Male,48,urban,$75.000 to $100.000,Safety,None of these,,Smart Features,Yes,36,Biometrics - fingerprint
+Female,38,suburban,$25.000 to $50.000,Friend’s recommendation,None of these,,Safety,No,48,Remote unlock by application
+Female,45,urban,Less than $25.000,Quality,None of these,,Remote Access,Yes,52,Biometrics - eyescan
+Male,36,urban,Less than $25.000,Brand,None of these,,Safety,Yes,73,NFC
+Female,46,rural,$50.000 to $75.000,Friend’s recommendation,Nest,1-5,Price,No,41,Remote unlock by application
+Male,42,urban,$25.000 to $50.000,Friend’s recommendation,Loxone,1-5,Price,No,55,NFC
+Male,43,suburban,$100.000 to $150.000,Quality,Apple Home Kit,>15,Remote Access,Yes,36,Biometrics - fingerprint
+Female,38,urban,$150.000 or More,Quality,None of these,,Brand,Yes,55,NFC
+Female,46,rural,$150.000 or More,Quality,Loxone,5-10,Brand,No,48,Biometrics - eyescan
+Female,45,urban,$25.000 to $50.000,Price,Loxone,5-10,Safety,Yes,43,Remote unlock by application
+Male,37,urban,$75.000 to $100.000,Packaging,Nest,1-5,Remote Access,Yes,55,Biometrics - fingerprint
+Female,33,suburban,$100.000 to $150.000,Packaging,None of these,,Brand,No,51,Remote unlock by application
+Male,47,suburban,$150.000 or More,Packaging,None of these,,Brand,Yes,33,Remote unlock by application
+Female,49,urban,$50.000 to $75.000,Durability,None of these,,Brand,Yes,39,Remote unlock by application
+Male,40,urban,$25.000 to $50.000,Durability,None of these,,Safety,Yes,57,Biometrics - fingerprint
+Male,32,suburban,$75.000 to $100.000,Friend’s recommendation,None of these,,Smart Features,Yes,68,NFC
+Female,46,suburban,$50.000 to $75.000,Quality,None of these,,Brand,No,40,Biometrics - fingerprint
+Male,33,suburban,$25.000 to $50.000,Friend’s recommendation,None of these,,Remote Access,No,62,Remote unlock by application
+Male,36,urban,$100.000 to $150.000,Quality,Amazon Alexa,>15,Smart Features,Yes,72,Bluetooth
+Female,29,suburban,$150.000 or More,Quality,Loxone,5-10,Remote Access,Yes,86,Remote unlock by application
+Male,47,rural,Less than $25.000,Safety,None of these,,Price,No,51,Bluetooth
+Male,42,rural,$50.000 to $75.000,Brand,Google Home,>15,Price,Yes,45,Biometrics - photo
+Male,35,suburban,Less than $25.000,Safety,None of these,,Safety,Yes,71,Biometrics - photo
+Male,43,urban,$75.000 to $100.000,Quality,iNels,1-5,Price,No,48,NFC
+Male,49,rural,$75.000 to $100.000,Safety,None of these,,Remote Access,No,44,Bluetooth
+Female,43,rural,$75.000 to $100.000,Friend’s recommendation,Fibaro,1-5,Safety,Yes,35,Remote unlock by application
+Female,39,urban,$50.000 to $75.000,Quality,Amazon Alexa,>15,Remote Access,Yes,58,Remote unlock by application
+Female,41,rural,$25.000 to $50.000,Price,Nest,5-10,Price,No,69,Biometrics - eyescan
+Male,36,suburban,$100.000 to $150.000,Packaging,None of these,,Safety,No,67,Biometrics - photo
+Female,40,rural,$50.000 to $75.000,Convenience,Amazon Alexa,5-10,Safety,Yes,42,NFC
+Female,45,suburban,Less than $25.000,Safety,None of these,,Remote Access,No,48,NFC
+Male,35,suburban,Less than $25.000,Brand,Loxone,,Remote Access,Yes,,Biometrics - fingerprint
+Male,35,rural,$150.000 or More,Quality,Amazon Alexa,10-15,Brand,Yes,58,Bluetooth
+Male,41,rural,Less than $25.000,Safety,Nest,5-10,Price,Yes,43,Biometrics - photo
+Female,43,suburban,$50.000 to $75.000,Quality,None of these,,Price,Yes,67,Bluetooth
+Male,35,suburban,$150.000 or More,Quality,Loxone,,Remote Access,Yes,,Biometrics - photo
+Female,48,rural,$75.000 to $100.000,Quality,Apple Home Kit,5-10,Brand,Yes,55,Conventional key
+Male,37,urban,Less than $25.000,Brand,Apple Home Kit,5-10,Safety,Yes,52,Conventional key
+Male,40,rural,$150.000 or More,Packaging,Amazon Alexa,>15,Brand,Yes,49,Biometrics - eyescan
+Male,36,suburban,$100.000 to $150.000,Durability,Google Home,5-10,Safety,Yes,70,Remote unlock by application
+Male,49,suburban,$100.000 to $150.000,Quality,None of these,,Brand,No,37,Biometrics - fingerprint
+Male,43,suburban,$75.000 to $100.000,Packaging,None of these,,Smart Features,Yes,36,Biometrics - eyescan
+Female,32,rural,$50.000 to $75.000,Packaging,Amazon Alexa,10-15,Safety,Yes,64,NFC
+Female,39,suburban,$50.000 to $75.000,Packaging,Fibaro,5-10,Safety,No,68,Biometrics - fingerprint
+Male,34,urban,$25.000 to $50.000,Friend’s recommendation,Apple Home Kit,10-15,Price,Yes,62,Biometrics - fingerprint
+Male,37,rural,$75.000 to $100.000,Quality,Fibaro,,Brand,No,,Remote unlock by application
+Female,44,rural,Less than $25.000,Convenience,Google Home,1-5,Price,No,46,Bluetooth
+Female,40,rural,$100.000 to $150.000,Packaging,None of these,,Remote Access,Yes,52,Remote unlock by application
+Male,50,rural,$150.000 or More,Brand,Apple Home Kit,,Brand,Yes,,Biometrics - fingerprint
+Female,41,rural,$75.000 to $100.000,Price,Loxone,1-5,Price,No,55,Biometrics - photo
+Female,33,urban,$50.000 to $75.000,Friend’s recommendation,Loxone,1-5,Safety,No,72,Biometrics - eyescan
+Female,43,suburban,Less than $25.000,Safety,Nest,,Safety,No,,Conventional key
+Male,34,suburban,$50.000 to $75.000,Convenience,Fibaro,1-5,Smart Features,Yes,72,Biometrics - fingerprint
+Male,35,suburban,$150.000 or More,Packaging,None of these,,Brand,No,59,Remote unlock by application
+Male,50,suburban,$150.000 or More,Friend’s recommendation,Amazon Alexa,10-15,Smart Features,Yes,41,NFC
+Male,39,suburban,Less than $25.000,Price,Nest,5-10,Brand,Yes,62,Conventional key
+Male,39,urban,$100.000 to $150.000,Price,Fibaro,1-5,Safety,No,63,Conventional key
+Male,25,suburban,$50.000 to $75.000,Brand,None of these,,Safety,Yes,78,Conventional key
+Male,39,suburban,$25.000 to $50.000,Quality,Fibaro,,Price,Yes,,Biometrics - photo
+Female,33,rural,$50.000 to $75.000,Packaging,Loxone,5-10,Smart Features,Yes,58,Biometrics - eyescan
+Male,34,suburban,$25.000 to $50.000,Price,Google Home,1-5,Price,No,64,Conventional key
+Male,49,rural,Less than $25.000,Brand,None of these,,Remote Access,Yes,37,Biometrics - eyescan
+Male,39,urban,$75.000 to $100.000,Friend’s recommendation,Apple Home Kit,10-15,Price,Yes,52,Biometrics - photo
+Female,39,urban,$25.000 to $50.000,Brand,None of these,,Remote Access,Yes,57,Remote unlock by application
+Female,40,urban,$25.000 to $50.000,Convenience,Amazon Alexa,>15,Price,Yes,56,Bluetooth
+Male,41,rural,$50.000 to $75.000,Quality,Amazon Alexa,5-10,Safety,Yes,45,Remote unlock by application
+Female,33,rural,$150.000 or More,Brand,None of these,,Brand,No,56,Biometrics - fingerprint
+Male,42,urban,$75.000 to $100.000,Friend’s recommendation,None of these,,Price,No,49,Biometrics - fingerprint
+Male,44,urban,$100.000 to $150.000,Brand,Amazon Alexa,10-15,Safety,Yes,49,Biometrics - fingerprint
+Female,42,rural,$25.000 to $50.000,Safety,Google Home,10-15,Safety,Yes,50,Biometrics - photo
+Male,35,suburban,$25.000 to $50.000,Durability,Fibaro,>15,Safety,No,61,NFC
+Male,36,rural,$100.000 to $150.000,Friend’s recommendation,None of these,,Price,No,66,NFC
+Male,45,rural,$25.000 to $50.000,Brand,None of these,,Price,No,,Biometrics - fingerprint
+Male,26,suburban,Less than $25.000,Durability,Amazon Alexa,5-10,Price,Yes,94,NFC
+Male,34,urban,$100.000 to $150.000,Friend’s recommendation,Loxone,1-5,Safety,Yes,75,NFC
+Female,37,urban,$75.000 to $100.000,Friend’s recommendation,Loxone,1-5,Brand,No,56,Conventional key
+Female,34,suburban,$75.000 to $100.000,Friend’s recommendation,None of these,,Price,No,63,Remote unlock by application
+Male,35,urban,$100.000 to $150.000,Brand,Nest,1-5,Remote Access,No,74,Biometrics - fingerprint
+Male,39,rural,$150.000 or More,Quality,None of these,,Price,No,50,Biometrics - eyescan
+Female,34,suburban,$75.000 to $100.000,Quality,None of these,,Safety,Yes,57,Conventional key
+Female,37,rural,$100.000 to $150.000,Durability,Google Home,1-5,Smart Features,No,56,NFC
+Male,37,rural,$50.000 to $75.000,Brand,None of these,,Price,No,,Biometrics - photo
+Female,23,urban,$150.000 or More,Durability,Amazon Alexa,>15,Remote Access,Yes,88,Remote unlock by application
+Male,36,rural,$25.000 to $50.000,Price,Google Home,5-10,Safety,Yes,51,Biometrics - eyescan
+Male,41,urban,$25.000 to $50.000,Brand,Fibaro,>15,Remote Access,Yes,47,Remote unlock by application
+Male,45,urban,$150.000 or More,Safety,Loxone,1-5,Remote Access,Yes,51,Biometrics - photo
+Male,31,suburban,$25.000 to $50.000,Quality,None of these,,Safety,Yes,74,Biometrics - fingerprint
+Female,51,urban,Less than $25.000,Safety,None of these,,Safety,Yes,50,Biometrics - eyescan
+Female,45,urban,$25.000 to $50.000,Friend’s recommendation,Fibaro,1-5,Remote Access,No,31,Remote unlock by application
+Male,39,urban,$75.000 to $100.000,Safety,None of these,,Smart Features,Yes,43,Biometrics - fingerprint
+Female,43,suburban,$75.000 to $100.000,Convenience,None of these,,Price,Yes,55,Remote unlock by application
+Female,28,urban,Less than $25.000,Safety,None of these,,Remote Access,Yes,88,Biometrics - eyescan
+Female,41,rural,$75.000 to $100.000,Brand,Fibaro,5-10,Safety,Yes,48,NFC
+Female,34,rural,$50.000 to $75.000,Convenience,iNels,1-5,Safety,Yes,67,NFC
+Female,38,rural,$50.000 to $75.000,Packaging,Loxone,1-5,Brand,No,54,Conventional key
+Male,39,urban,$50.000 to $75.000,Packaging,Loxone,10-15,Smart Features,No,46,Bluetooth
+Male,35,urban,$25.000 to $50.000,Convenience,Google Home,10-15,Safety,Yes,54,Remote unlock by application
+Female,49,suburban,$150.000 or More,Packaging,Fibaro,10-15,Safety,Yes,50,NFC
+Female,44,rural,Less than $25.000,Brand,None of these,,Price,No,,Remote unlock by application
+Male,40,rural,$25.000 to $50.000,Friend’s recommendation,Google Home,10-15,Safety,Yes,52,Remote unlock by application
+Female,33,suburban,$150.000 or More,Quality,Amazon Alexa,>15,Smart Features,No,38,NFC
+Female,33,suburban,$150.000 or More,Durability,None of these,,Brand,No,61,Conventional key
+Male,37,urban,$150.000 or More,Quality,Amazon Alexa,10-15,Remote Access,Yes,68,Biometrics - fingerprint
+Female,38,rural,$50.000 to $75.000,Durability,iNels,1-5,Safety,No,57,Remote unlock by application
+Male,44,rural,$100.000 to $150.000,Durability,Apple Home Kit,10-15,Safety,Yes,47,Biometrics - eyescan
+Female,38,rural,$50.000 to $75.000,Price,None of these,,Brand,No,62,Conventional key
+Female,33,rural,$75.000 to $100.000,Price,Google Home,5-10,Safety,Yes,39,Biometrics - photo
+Male,40,urban,$150.000 or More,Friend’s recommendation,Amazon Alexa,5-10,Price,Yes,43,NFC
+Female,34,urban,$150.000 or More,Quality,Nest,5-10,Safety,Yes,64,Biometrics - eyescan
+Male,41,suburban,$150.000 or More,Quality,None of these,,Remote Access,Yes,55,Biometrics - fingerprint
+Male,42,rural,$100.000 to $150.000,Quality,iNels,1-5,Safety,No,57,NFC
+Male,42,suburban,Less than $25.000,Safety,Amazon Alexa,1-5,Price,No,57,Bluetooth
+Female,26,suburban,$25.000 to $50.000,Quality,Google Home,>15,Price,Yes,79,Remote unlock by application
+Female,49,urban,$25.000 to $50.000,Durability,Amazon Alexa,10-15,Remote Access,Yes,34,Remote unlock by application
+Male,34,suburban,$100.000 to $150.000,Durability,Loxone,1-5,Brand,No,51,Conventional key
+Female,43,suburban,$75.000 to $100.000,Packaging,Apple Home Kit,10-15,Safety,Yes,43,Biometrics - eyescan
+Female,40,urban,$100.000 to $150.000,Friend’s recommendation,Google Home,10-15,Price,Yes,58,Bluetooth
+Female,39,urban,$150.000 or More,Packaging,None of these,,Safety,Yes,35,Conventional key
+Male,38,urban,$25.000 to $50.000,Convenience,None of these,,Price,No,61,Biometrics - fingerprint
+Male,37,suburban,$50.000 to $75.000,Durability,Amazon Alexa,>15,Smart Features,Yes,79,Bluetooth
