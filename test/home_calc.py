@@ -18,12 +18,17 @@ sheet_url = f'https://docs.google.com/spreadsheets/d/{sheet_id}/edit#gid={sheet_
 csv_export_url = sheet_url.replace('/edit#gid=', '/export?format=csv&gid=')
 
 
+sp_code='1m'
+price_gas=100
+price_electric=40
+
+
 df_scale_data=pd.read_csv(csv_export_url,sep=',',error_bad_lines=False)
 cols=df_scale_data.columns
 
 df_scale_data.columns=['Date','Gas','ElectricIn','ElectricOut','Solar','Water','Change','ScaleAtChange']
 
-##### elektromos fogyasztás
+######################## elektromos fogyasztás
 
 df_scale_electricity=df_scale_data[df_scale_data['ElectricIn'].notnull()].copy()
 
@@ -32,8 +37,6 @@ df_scale_electricity['Date2']=pd.to_datetime(df_scale_electricity['Date'], infer
 df_scale_electricity['days']=df_scale_electricity['Date2']-df_scale_electricity['Date2'].shift(1)
 
 df_scale_electricity['hours']=df_scale_electricity['days'].astype('timedelta64[h]')
-
-fig1, ax1 = plt.subplots()
 
 
 # consumption
@@ -54,12 +57,15 @@ df_scale_electricity['d_electric_perhour_withoutsolar']=df_scale_electricity['d_
 df_scale_electricity['d_electric_perhour_withsolar']=df_scale_electricity['d_electric_total']/df_scale_electricity['hours']
 df_scale_electricity['d_electric_perhour_payable']=df_scale_electricity['d_electric_paid']/df_scale_electricity['hours']
 
-# plot
-# ax1.plot(df_scale_electricity['Date2'],df_scale_electricity['d_electric_perhour_withoutsolar'])
-ax1.plot(df_scale_electricity['Date2'],df_scale_electricity['d_electric_perhour_withsolar'])
-ax1.plot(df_scale_electricity['Date2'],df_scale_electricity['d_electric_perhour_payable'])
+# reasample and interpolate
+df_2plot_electricity=df_scale_electricity.copy()
+df_2plot_electricity.index = df_2plot_electricity['Date2']
+df_2plot_electricity=df_2plot_electricity.resample(sp_code).pad()
 
-##### gáz fogyasztás
+df_2plot_electricity['hours_resample']=(df_2plot_electricity.index.shift(1)-df_2plot_electricity.index).astype('timedelta64[h]')
+
+
+############################ gáz fogyasztás
 
 df_scale_gas=df_scale_data[df_scale_data['Gas'].notnull()].copy()
 
@@ -76,19 +82,34 @@ df_scale_gas.loc[df_scale_gas.loc[:,'Change'].shift(1)=='Gázmérő csere',['d_g
 
 df_scale_gas['d_gas_perhour']=df_scale_gas['d_gas']/df_scale_gas['hours']
 
+# reasample and interpolate
+df_2plot_gas=df_scale_gas.copy()
+df_2plot_gas.index = df_2plot_gas['Date2']
+df_2plot_gas=df_2plot_gas.resample(sp_code).pad()
+df_2plot_gas['hours_resample']=(df_2plot_gas.index.shift(1)-df_2plot_gas.index).astype('timedelta64[h]')
 
-ax1.plot(df_scale_gas['Date2'],df_scale_gas['d_gas_perhour'])
+
+
+# plot
+# fig1, ax1 = plt.subplots()
+
+# ax1.plot(df_2plot_electricity.index,df_2plot_electricity['d_electric_perhour_withsolar'])
+# ax1.plot(df_2plot_electricity.index,df_2plot_electricity['d_electric_perhour_payable'])
+
+
+
+# # plot gas
+# ax1.plot(df_2plot_gas.index,df_2plot_gas['d_gas_perhour'])
 
 
 # approximate price plot
+
 fig2, ax2 = plt.subplots()
 
-price_gas=100
-price_electric=40
 
 # ax2.plot(df_scale_electricity['Date2'],price_electric*df_scale_electricity['d_electric_perhour_withoutsolar'])
-ax2.plot(df_scale_electricity['Date2'],price_electric*df_scale_electricity['d_electric_perhour_withsolar'])
-ax2.plot(df_scale_electricity['Date2'],price_electric*df_scale_electricity['d_electric_perhour_payable'])
+ax2.plot(df_2plot_electricity.index,price_electric*df_2plot_electricity['hours_resample']*df_2plot_electricity['d_electric_perhour_withsolar'])
+ax2.plot(df_2plot_electricity.index,price_electric*df_2plot_electricity['hours_resample']*df_2plot_electricity['d_electric_perhour_payable'])
 
-ax2.plot(df_scale_gas['Date2'],price_gas*df_scale_gas['d_gas_perhour'])
+ax2.plot(df_2plot_gas.index,price_gas*df_2plot_gas['hours_resample']*df_2plot_gas['d_gas_perhour'])
 
